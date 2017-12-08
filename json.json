@@ -1,0 +1,1641 @@
+[
+    {
+        "restaurantId": "customer_0",
+        "restaurantName": "CustomerRestaurant\n",
+        "top-none-phrases": [
+            {
+                "phrase": "la isla",
+                "reviews": [
+                    {
+                        "review_id": "161",
+                        "sentences": [
+                            "I live across the street and had high hopes for La Isla but am so disappointed after three dinners over the past 2 months, I will never go again.",
+                            "We really need a good casual restaurant in this location and hope someday one replaces La Isla Uptown."
+                        ]
+                    },
+                    {
+                        "review_id": "65",
+                        "sentences": [
+                            "Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino."
+                        ]
+                    },
+                    {
+                        "review_id": "41",
+                        "sentences": [
+                            "Always love dining at La Isla - either uptown or downtown."
+                        ]
+                    },
+                    {
+                        "review_id": "199",
+                        "sentences": [
+                            "La Isla is one of my favorite Cuban restaurants in Hoboken and I am SO happy that they opened a location in uptown."
+                        ]
+                    },
+                    {
+                        "review_id": "197",
+                        "sentences": [
+                            "I really want La Isla to be a success but they need to get their act together otherwise people will just walk to The Cuban or Havana."
+                        ]
+                    },
+                    {
+                        "review_id": "127",
+                        "sentences": [
+                            "Cannot say enough about how wonderful our experience at La Isla was!"
+                        ]
+                    },
+                    {
+                        "review_id": "185",
+                        "sentences": [
+                            "I've been to the La Isla downtown and found out about the new uptown location randomly."
+                        ]
+                    },
+                    {
+                        "review_id": "73",
+                        "sentences": [
+                            "Food is not as good as the downtown La Isla but the drinks more than make up for it."
+                        ]
+                    },
+                    {
+                        "review_id": "20",
+                        "sentences": [
+                            "La Isla - Uptown has a very different feel than their original location on First & Washington in Hoboken."
+                        ]
+                    },
+                    {
+                        "review_id": "155",
+                        "sentences": [
+                            "As always, the food at La Isla was fantastic, especially their key lime pie desert."
+                        ]
+                    },
+                    {
+                        "review_id": "60",
+                        "sentences": [
+                            "I'm a long time supporter of La Isla downtown so I was really excited to visit this location when I heard about it."
+                        ]
+                    },
+                    {
+                        "review_id": "136",
+                        "sentences": [
+                            "We ordered La Isla for pick-up last night and I must say, I was impressed."
+                        ]
+                    },
+                    {
+                        "review_id": "49",
+                        "sentences": [
+                            "La Isla Downtown, of course, is a beloved fixture of Hoboken, with quirky decor, fast service, friendly staff and amazing food."
+                        ]
+                    },
+                    {
+                        "review_id": "96",
+                        "sentences": [
+                            "La Isla consistently delicers delicious food and first class service."
+                        ]
+                    },
+                    {
+                        "review_id": "62",
+                        "sentences": [
+                            "There aren't many Cuban places to compare to, but with amazingly flavorful food, La Isla sets the bar high for the cuisine."
+                        ]
+                    },
+                    {
+                        "review_id": "70",
+                        "sentences": [
+                            "Visited La Isla for a girls night dinner."
+                        ]
+                    },
+                    {
+                        "review_id": "66",
+                        "sentences": [
+                            "I grew up with La Isla."
+                        ]
+                    },
+                    {
+                        "review_id": "196",
+                        "sentences": [
+                            "I've eaten at the original La Isla down on Washington Street a few times and always enjoyed the food there, but I was especially glad when I noticed they were opening a second location closer to where I live.",
+                            "On Friday (07/03), my boyfriend and I decided to check this place out and see if it was just as good as the La Isla we've come to know and love."
+                        ]
+                    },
+                    {
+                        "review_id": "108",
+                        "sentences": [
+                            "Good job La Isla!"
+                        ]
+                    },
+                    {
+                        "review_id": "163",
+                        "sentences": [
+                            "The original, downtown La Isla had been featured on Throwdown with Bobby Flay, and its chef had even won for his stuffed French toast."
+                        ]
+                    },
+                    {
+                        "review_id": "157",
+                        "sentences": [
+                            "La Isla, is about as good as it gets!"
+                        ]
+                    },
+                    {
+                        "review_id": "195",
+                        "sentences": [
+                            "First off, my friend and I are huge fans of La Isla and have been going there for many many years, in fact, it's my favorite restaurant on the planet to date."
+                        ]
+                    },
+                    {
+                        "review_id": "179",
+                        "sentences": [
+                            "I had high hopes for the new location of La Isla."
+                        ]
+                    },
+                    {
+                        "review_id": "138",
+                        "sentences": [
+                            "The attitude encountered at La Isla was stunning."
+                        ]
+                    },
+                    {
+                        "review_id": "112",
+                        "sentences": [
+                            "You can blame Laz @ Sparrow for La Isla's knock out beer selection."
+                        ]
+                    },
+                    {
+                        "review_id": "133",
+                        "sentences": [
+                            "La Isla Uptown-Decor- great Food- very good when finally brought out the right temperature."
+                        ]
+                    },
+                    {
+                        "review_id": "173",
+                        "sentences": [
+                            "What a difference 12 blocks makes... As a semi regular at the original la isla location, I decided to try the new iteration."
+                        ]
+                    },
+                    {
+                        "review_id": "83",
+                        "sentences": [
+                            "A great night all around at La Isla Uptown."
+                        ]
+                    },
+                    {
+                        "review_id": "159",
+                        "sentences": [
+                            "Same great food and prices as the downtown La Isla."
+                        ]
+                    },
+                    {
+                        "review_id": "10",
+                        "sentences": [
+                            "Service: The service at \"La Isla's\" is excellent.",
+                            "In some places they take so long to give and take the check, well not at La Isla's a Cuban food delight."
+                        ]
+                    },
+                    {
+                        "review_id": "162",
+                        "sentences": [
+                            "So when I heard of Hoboken La Isla opening another location uptown, particularly in Maxwell, not surprisingly, I wasn't too enthused.",
+                            "After all, Cuban food in Hoboken is fantastic between The Cuban, Zafra, and La Isla."
+                        ]
+                    },
+                    {
+                        "review_id": "167",
+                        "sentences": [
+                            "Hit the new la isla today for the first time."
+                        ]
+                    },
+                    {
+                        "review_id": "105",
+                        "sentences": [
+                            "Finally got a chance to try La Isla and now I can't wait to go back!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "french toast",
+                "reviews": [
+                    {
+                        "review_id": "154",
+                        "sentences": [
+                            "Needless to say that the guava french toast is the most delicious thing I have ever tasted!"
+                        ]
+                    },
+                    {
+                        "review_id": "163",
+                        "sentences": [
+                            "The original, downtown La Isla had been featured on Throwdown with Bobby Flay, and its chef had even won for his stuffed French toast."
+                        ]
+                    },
+                    {
+                        "review_id": "63",
+                        "sentences": [
+                            "My husband ordered the Omar's stuffed French toast (since it was featured in food network) and I opted for the omelette which you get to choose 3 fillings (I ordered chorizo, manchego cheese, and maduros)."
+                        ]
+                    },
+                    {
+                        "review_id": "94",
+                        "sentences": [
+                            "We both order the French toast and wait in anticipation."
+                        ]
+                    },
+                    {
+                        "review_id": "114",
+                        "sentences": [
+                            "Not to mention their Strawberry Stuffed French Toast!"
+                        ]
+                    },
+                    {
+                        "review_id": "132",
+                        "sentences": [
+                            "The brunch is great for their crunchy stuffed french toast.",
+                            "It really IS the best french toast you will ever have."
+                        ]
+                    },
+                    {
+                        "review_id": "125",
+                        "sentences": [
+                            "A friend of mine ordered the stuffed french toast and it was hard and dry."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "customer service",
+                "reviews": [
+                    {
+                        "review_id": "131",
+                        "sentences": [
+                            "The staff was on point with their customer service, especially Joe and Sandra; the food was amazing!"
+                        ]
+                    },
+                    {
+                        "review_id": "89",
+                        "sentences": [
+                            "Unfortunately, tonight we had the worst customer service experience ever."
+                        ]
+                    },
+                    {
+                        "review_id": "154",
+                        "sentences": [
+                            "The portions are great, the variety is amazing and the customer service is excellent."
+                        ]
+                    },
+                    {
+                        "review_id": "23",
+                        "sentences": [
+                            "The customer service is very good tho!"
+                        ]
+                    },
+                    {
+                        "review_id": "188",
+                        "sentences": [
+                            "Will not return- horrible customer service!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban sandwich",
+                "reviews": [
+                    {
+                        "review_id": "139",
+                        "sentences": [
+                            "Cuban sandwich , Isla salad, and chicken noodle soup ... All worth going back for."
+                        ]
+                    },
+                    {
+                        "review_id": "99",
+                        "sentences": [
+                            "My Cuban sandwich was way too dry."
+                        ]
+                    },
+                    {
+                        "review_id": "152",
+                        "sentences": [
+                            "I recommend the cuban sandwich, empanada & chicken club."
+                        ]
+                    },
+                    {
+                        "review_id": "194",
+                        "sentences": [
+                            "The Cuban sandwich was excellent as was the Camarones Enchilados... Service was friendly and knowledgeable... Best part of the experience was the Habanero Mojito- its truly a must have!"
+                        ]
+                    },
+                    {
+                        "review_id": "34",
+                        "sentences": [
+                            "I got the Media Noche which was essentially the most tender Cuban sandwich I've ever had."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "ropa vieja",
+                "reviews": [
+                    {
+                        "review_id": "186",
+                        "sentences": [
+                            "The ropa vieja was great especially with tostones covered in moj."
+                        ]
+                    },
+                    {
+                        "review_id": "107",
+                        "sentences": [
+                            "I usually order the shrimp and garlic which is absolutely delicious, but figured I would try the ropa vieja which was on special Sunday night."
+                        ]
+                    },
+                    {
+                        "review_id": "113",
+                        "sentences": [
+                            "I had the ropa vieja with yuca and black beans.",
+                            "Yuca was nice though and the ropa Vieja was fucking perrrrrrfect so tender and juicy."
+                        ]
+                    },
+                    {
+                        "review_id": "135",
+                        "sentences": [
+                            "For a cuban restaurant not to have masitas de Puerco , baca Frita , ropa Vieja on the menu."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "con leche",
+                "reviews": [
+                    {
+                        "review_id": "131",
+                        "sentences": [
+                            "Convinced my friends to try the cafe con leche - and they weren't disappointed."
+                        ]
+                    },
+                    {
+                        "review_id": "22",
+                        "sentences": [
+                            "Cafe con leche is the best cuban coffee i've ever had."
+                        ]
+                    },
+                    {
+                        "review_id": "73",
+                        "sentences": [
+                            "Cafe con leche is always great and so is the toasted cuban bread."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "tres leches",
+                "reviews": [
+                    {
+                        "review_id": "127",
+                        "sentences": [
+                            "She gave us a sample of the wine to make sure we liked it before purchasing the entire bottle and was able to get us an order of Tres Leches even after the kitchen had closed.",
+                            "Lastly, I have never had a more delicious Tres Leches cake than I did here last night."
+                        ]
+                    },
+                    {
+                        "review_id": "28",
+                        "sentences": [
+                            "Tres leches was awful."
+                        ]
+                    },
+                    {
+                        "review_id": "128",
+                        "sentences": [
+                            "Then for dessert we got the tres leches cake - which is probably the best tres leches cake I had."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "papa rellena",
+                "reviews": [
+                    {
+                        "review_id": "107",
+                        "sentences": [
+                            "The tostones and boiled yuca are always fantastic, as is the papa rellena."
+                        ]
+                    },
+                    {
+                        "review_id": "81",
+                        "sentences": [
+                            "Not as good as downtown, my take out: 2 papa rellena, rice and beans.",
+                            "My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container."
+                        ]
+                    },
+                    {
+                        "review_id": "85",
+                        "sentences": [
+                            "The garlic shrimp app was awesome and the papa rellena was SO GOOD."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cafe con",
+                "reviews": [
+                    {
+                        "review_id": "73",
+                        "sentences": [
+                            "Cafe con leche is always great and so is the toasted cuban bread."
+                        ]
+                    },
+                    {
+                        "review_id": "22",
+                        "sentences": [
+                            "Cafe con leche is the best cuban coffee i've ever had."
+                        ]
+                    },
+                    {
+                        "review_id": "131",
+                        "sentences": [
+                            "Convinced my friends to try the cafe con leche - and they weren't disappointed."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "plantain chips",
+                "reviews": [
+                    {
+                        "review_id": "113",
+                        "sentences": [
+                            "To start we had the ceviche and plantain chips."
+                        ]
+                    },
+                    {
+                        "review_id": "13",
+                        "sentences": [
+                            "Came here for happy hour with my boyfriend, we loved our ceviche with plantain chips although I wish it was spicy but next time I'll ask for jalapenos, we also had the grilled pulpo it was good wish it was a little more charred but not bad."
+                        ]
+                    },
+                    {
+                        "review_id": "166",
+                        "sentences": [
+                            "Black bean hummus served with plantain chips is a must!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "brunch menu",
+                "reviews": [
+                    {
+                        "review_id": "36",
+                        "sentences": [
+                            "The brunch menu is lengthy but all sounds fantastic."
+                        ]
+                    },
+                    {
+                        "review_id": "107",
+                        "sentences": [
+                            "They also have a GREAT brunch menu."
+                        ]
+                    },
+                    {
+                        "review_id": "2",
+                        "sentences": [
+                            "They have a great selection and a pretty good brunch menu"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "habanero mojito",
+                "reviews": [
+                    {
+                        "review_id": "139",
+                        "sentences": [
+                            "Recommend the pineapple habanero mojito and the Bianchi Cab."
+                        ]
+                    },
+                    {
+                        "review_id": "107",
+                        "sentences": [
+                            "I have heard that the pineapple habanero mojito is everything."
+                        ]
+                    },
+                    {
+                        "review_id": "84",
+                        "sentences": [
+                            "Let's start with the good: the Habanero Mojito was delicious."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "waitress sandra",
+                "reviews": [
+                    {
+                        "review_id": "47",
+                        "sentences": [
+                            "First off our waitress Sandra was amazing very informative and enthusiastic!"
+                        ]
+                    },
+                    {
+                        "review_id": "150",
+                        "sentences": [
+                            "Food was great, decor and ambiance fantastic, and our waitress Sandra was a delight!"
+                        ]
+                    },
+                    {
+                        "review_id": "141",
+                        "sentences": [
+                            "Waitress Sandra is awesome :)"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "craft beer",
+                "reviews": [
+                    {
+                        "review_id": "170",
+                        "sentences": [
+                            "So happy this location is open and they have a great craft beer selection as well."
+                        ]
+                    },
+                    {
+                        "review_id": "167",
+                        "sentences": [
+                            "Solid craft beer list and cocktail list."
+                        ]
+                    },
+                    {
+                        "review_id": "112",
+                        "sentences": [
+                            "Cuban food and American Craft Beer?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban coffee",
+                "reviews": [
+                    {
+                        "review_id": "19",
+                        "sentences": [
+                            "Clearly they have no idea what a Cuban coffee is."
+                        ]
+                    },
+                    {
+                        "review_id": "199",
+                        "sentences": [
+                            "Incredible food - I absolutely love their cuban sandwiches and Cuban coffee!"
+                        ]
+                    },
+                    {
+                        "review_id": "22",
+                        "sentences": [
+                            "Cafe con leche is the best cuban coffee i've ever had."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "chicken dish",
+                "reviews": [
+                    {
+                        "review_id": "78",
+                        "sentences": [
+                            "Service is great, food is good (tried a few different things - the only thing I was not a fan of was the grilled chicken dish)."
+                        ]
+                    },
+                    {
+                        "review_id": "11",
+                        "sentences": [
+                            "The spinach chicken dish is my favorite, it's so full of flavor and never disappoints."
+                        ]
+                    },
+                    {
+                        "review_id": "69",
+                        "sentences": [
+                            "My friend ordered a chicken dish which was tender and tasty as well."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "beer selection",
+                "reviews": [
+                    {
+                        "review_id": "112",
+                        "sentences": [
+                            "You can blame Laz @ Sparrow for La Isla's knock out beer selection."
+                        ]
+                    },
+                    {
+                        "review_id": "170",
+                        "sentences": [
+                            "So happy this location is open and they have a great craft beer selection as well."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "pineapple habanero",
+                "reviews": [
+                    {
+                        "review_id": "139",
+                        "sentences": [
+                            "Recommend the pineapple habanero mojito and the Bianchi Cab."
+                        ]
+                    },
+                    {
+                        "review_id": "107",
+                        "sentences": [
+                            "I have heard that the pineapple habanero mojito is everything."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "happy hour",
+                "reviews": [
+                    {
+                        "review_id": "13",
+                        "sentences": [
+                            "Came here for happy hour with my boyfriend, we loved our ceviche with plantain chips although I wish it was spicy but next time I'll ask for jalapenos, we also had the grilled pulpo it was good wish it was a little more charred but not bad.",
+                            "Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat."
+                        ]
+                    },
+                    {
+                        "review_id": "74",
+                        "sentences": [
+                            "$5 happy hour mojitos and empanadas are worth a stop."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "sub par",
+                "reviews": [
+                    {
+                        "review_id": "113",
+                        "sentences": [
+                            "The beans were sub par."
+                        ]
+                    },
+                    {
+                        "review_id": "0",
+                        "sentences": [
+                            "The service was sub par."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cocktail list",
+                "reviews": [
+                    {
+                        "review_id": "167",
+                        "sentences": [
+                            "Solid craft beer list and cocktail list."
+                        ]
+                    },
+                    {
+                        "review_id": "139",
+                        "sentences": [
+                            "Cocktail list is awesome."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban restaurants",
+                "reviews": [
+                    {
+                        "review_id": "199",
+                        "sentences": [
+                            "La Isla is one of my favorite Cuban restaurants in Hoboken and I am SO happy that they opened a location in uptown."
+                        ]
+                    },
+                    {
+                        "review_id": "32",
+                        "sentences": [
+                            "I love Cuban food and I've been to Cuban restaurants all over including The Cuban (in Hoboken) and authentic Cuban restaurants in Miami and this place can hold its own."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "right amount",
+                "reviews": [
+                    {
+                        "review_id": "148",
+                        "sentences": [
+                            "He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice."
+                        ]
+                    },
+                    {
+                        "review_id": "10",
+                        "sentences": [
+                            "They don't rush you to order, they give you just the right amount of time to choose what to order."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban reuben",
+                "reviews": [
+                    {
+                        "review_id": "58",
+                        "sentences": [
+                            "The Cuban Reuben and the burger are some of my favorite items to order."
+                        ]
+                    },
+                    {
+                        "review_id": "82",
+                        "sentences": [
+                            "Food was a 3.5-4 (oxtail stew and Cuban Reuben were enjoyable!)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "shrimp dish",
+                "reviews": [
+                    {
+                        "review_id": "99",
+                        "sentences": [
+                            "Very small portions for some items, like the shrimp enchilados (a shrimp dish in an olive, onion and tomato sauce)."
+                        ]
+                    },
+                    {
+                        "review_id": "69",
+                        "sentences": [
+                            "I ordered a shrimp dish that was very creamy and tasty."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban cuisine",
+                "reviews": [
+                    {
+                        "review_id": "44",
+                        "sentences": [
+                            "The food is great, their specials are often times innovative but simultaneously stay true to traditional Cuban cuisine."
+                        ]
+                    },
+                    {
+                        "review_id": "121",
+                        "sentences": [
+                            "If you are looking for great Cuban cuisine come to La Isla's uptown because the atmosphere is great and the food is even better."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "drink orders",
+                "reviews": [
+                    {
+                        "review_id": "172",
+                        "sentences": [
+                            "Our waitress barely came to the table... took forever to order and then once we ordered (and gave our drink orders as well), didn't see or hear from her for about 30-40 minutes."
+                        ]
+                    },
+                    {
+                        "review_id": "142",
+                        "sentences": [
+                            "Unfortunately, the service was spotty at best (we couldn't even get our server to bring water to the table within 10 minutes of sitting down, and our drink orders didn't come for nearly 30 minutes)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "skirt steak",
+                "reviews": [
+                    {
+                        "review_id": "84",
+                        "sentences": [
+                            "My son's skirt steak was well executed and had good flavors."
+                        ]
+                    },
+                    {
+                        "review_id": "35",
+                        "sentences": [
+                            "Pitcher of red sangria and skirt steak and your set."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "beer list",
+                "reviews": [
+                    {
+                        "review_id": "190",
+                        "sentences": [
+                            "Our waiter took our drink order but the beer list wasn't updated so we had a bit of confusion when figuring out what to order."
+                        ]
+                    },
+                    {
+                        "review_id": "167",
+                        "sentences": [
+                            "Solid craft beer list and cocktail list."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cubano sandwich",
+                "reviews": [
+                    {
+                        "review_id": "49",
+                        "sentences": [
+                            "The food here was merely \"okay,\" although my Cubano sandwich was slightly undercooked, and the Morir Sonando for some reason was disguised as a yuppie frapp."
+                        ]
+                    },
+                    {
+                        "review_id": "41",
+                        "sentences": [
+                            "I'm obsessed with the Cubano sandwich and iced Cuban latte."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "drink order",
+                "reviews": [
+                    {
+                        "review_id": "133",
+                        "sentences": [
+                            "Our \"server\" Sandra however was personable, but something was very off- She took our drink order n came back in 10 mins asking us if we were ready to order drinks."
+                        ]
+                    },
+                    {
+                        "review_id": "190",
+                        "sentences": [
+                            "Our waiter took our drink order but the beer list wasn't updated so we had a bit of confusion when figuring out what to order."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "bar area",
+                "reviews": [
+                    {
+                        "review_id": "43",
+                        "sentences": [
+                            "I came with my girlfriend to celebrate our anniversary, and we sat by the bar area."
+                        ]
+                    },
+                    {
+                        "review_id": "182",
+                        "sentences": [
+                            "The layout is spacious, there is a nice bar area and ample seating for groups of a variety of sizes."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "red wine",
+                "reviews": [
+                    {
+                        "review_id": "14",
+                        "sentences": [
+                            "The fresh pasta was bursting with tender seasoned meat in a red wine reduction."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "steam table",
+                "reviews": [
+                    {
+                        "review_id": "190",
+                        "sentences": [
+                            "Since our food was a special of the night it actually came out of a steam table which normally would terrify me but in this case the food was still delicious and the chicken moist and tender."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "noise factor",
+                "reviews": [
+                    {
+                        "review_id": "191",
+                        "sentences": [
+                            "My only complaint is the noise factor."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "el basero",
+                "reviews": [
+                    {
+                        "review_id": "149",
+                        "sentences": [
+                            "Menu options were creative and the El Basero was delicious!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "surprise shower",
+                "reviews": [
+                    {
+                        "review_id": "91",
+                        "sentences": [
+                            "I had order 1hr before the surprise shower."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "amazing appetizer",
+                "reviews": [
+                    {
+                        "review_id": "116",
+                        "sentences": [
+                            "We were lucky to have Sandra as our server, who recommended an amazing appetizer of fish ribs."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "someone explain",
+                "reviews": [
+                    {
+                        "review_id": "8",
+                        "sentences": [
+                            "Please someone explain to me how does that even make sense if we were only handed back the change."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "family member",
+                "reviews": [
+                    {
+                        "review_id": "123",
+                        "sentences": [
+                            "We celebrated a family member's birthday here."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "soup bladder",
+                "reviews": [
+                    {
+                        "review_id": "184",
+                        "sentences": [
+                            "Home made, not from a Panara soup bladder."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban flavor",
+                "reviews": [
+                    {
+                        "review_id": "183",
+                        "sentences": [
+                            "With a real Cuban flavor..."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "dish chicken",
+                "reviews": [
+                    {
+                        "review_id": "3",
+                        "sentences": [
+                            "She got the special dish Chicken with mushrooms $27 and the pineapple jalapeno mojito."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "tomato sauce",
+                "reviews": [
+                    {
+                        "review_id": "99",
+                        "sentences": [
+                            "Very small portions for some items, like the shrimp enchilados (a shrimp dish in an olive, onion and tomato sauce)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban latte",
+                "reviews": [
+                    {
+                        "review_id": "41",
+                        "sentences": [
+                            "I'm obsessed with the Cubano sandwich and iced Cuban latte."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "time supporter",
+                "reviews": [
+                    {
+                        "review_id": "60",
+                        "sentences": [
+                            "I'm a long time supporter of La Isla downtown so I was really excited to visit this location when I heard about it."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "un caf",
+                "reviews": [
+                    {
+                        "review_id": "19",
+                        "sentences": [
+                            "Asked for un caf cubano and the lady looked at me like I had 10 heads."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban spot",
+                "reviews": [
+                    {
+                        "review_id": "16",
+                        "sentences": [
+                            "This Is a good Cuban spot to try if your in uptown Hoboken."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "round greasy",
+                "reviews": [
+                    {
+                        "review_id": "161",
+                        "sentences": [
+                            "On my last try, I had the salty plantains and they were barely warm round greasy tasteless wafers."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "semi regular",
+                "reviews": [
+                    {
+                        "review_id": "173",
+                        "sentences": [
+                            "What a difference 12 blocks makes... As a semi regular at the original la isla location, I decided to try the new iteration."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "bar setup",
+                "reviews": [
+                    {
+                        "review_id": "31",
+                        "sentences": [
+                            "I liked the bar setup and the tables all around."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "spinach chicken",
+                "reviews": [
+                    {
+                        "review_id": "11",
+                        "sentences": [
+                            "The spinach chicken dish is my favorite, it's so full of flavor and never disappoints."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "potato sticks",
+                "reviews": [
+                    {
+                        "review_id": "163",
+                        "sentences": [
+                            "I got to my apartment, tore open the packaging, and took a crunchy bite into the pressed bread stuffed with grilled chicken breast, lettuce, tomato, and crispy potato sticks."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "homey mom",
+                "reviews": [
+                    {
+                        "review_id": "20",
+                        "sentences": [
+                            "Unlike the homey mom and pop feel of the original location, Las Isla uptown has a modern, clean, upscale vibe - nothing wrong with that just something to note if you'd been to the original location and are expecting the same experience."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "morir sonando",
+                "reviews": [
+                    {
+                        "review_id": "49",
+                        "sentences": [
+                            "The food here was merely \"okay,\" although my Cubano sandwich was slightly undercooked, and the Morir Sonando for some reason was disguised as a yuppie frapp."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "washington st.",
+                "reviews": [
+                    {
+                        "review_id": "176",
+                        "sentences": [
+                            "Came relatively soon after their official opening and were able to get a table for two with ease across from the counter.The new establishment was noticeably louder and seemed designed to do a lot more than their location on Washington St. Yet,that's where the problems occurred."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "steak chimichura",
+                "reviews": [
+                    {
+                        "review_id": "143",
+                        "sentences": [
+                            "We ordered beef and chicken empanadas to start and then most at the table had the steak chimichura - not that name on the menu but you will find it!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "chicken soup",
+                "reviews": [
+                    {
+                        "review_id": "3",
+                        "sentences": [
+                            "I ordered the chicken soup $5 and salmon $22 for my daughter."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "rude service",
+                "reviews": [
+                    {
+                        "review_id": "138",
+                        "sentences": [
+                            "We have dined at fine establishments around the world and have never encountered such rude service."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "style fans",
+                "reviews": [
+                    {
+                        "review_id": "173",
+                        "sentences": [
+                            "Soaring ceilings with Caribbean style fans, beautiful Spanish tile floors, the rest of the interior white, airy and chic."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "dinner menu",
+                "reviews": [
+                    {
+                        "review_id": "54",
+                        "sentences": [
+                            "I was in the mood for their lunch chicken special at dinner time and they made it for me even though it wasn't on the dinner menu."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "bloody mary",
+                "reviews": [
+                    {
+                        "review_id": "148",
+                        "sentences": [
+                            "He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "bit odd",
+                "reviews": [
+                    {
+                        "review_id": "64",
+                        "sentences": [
+                            "It was a bit odd, we went in without a reservation on New Years Day and they said the wait would be half an hour to 45 minutes, and then we commented that there were so many empty tables, then they changed their mind and seated us."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "job la",
+                "reviews": [
+                    {
+                        "review_id": "108",
+                        "sentences": [
+                            "Good job La Isla!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "raviolis appetizers",
+                "reviews": [
+                    {
+                        "review_id": "14",
+                        "sentences": [
+                            "Had carpaccio and filet mignon raviolis appetizers."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "fruit belini",
+                "reviews": [
+                    {
+                        "review_id": "63",
+                        "sentences": [
+                            "The passion fruit belini for me and el bucanero for my husband."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "black beans",
+                "reviews": [
+                    {
+                        "review_id": "81",
+                        "sentences": [
+                            "My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "crunchy bite",
+                "reviews": [
+                    {
+                        "review_id": "163",
+                        "sentences": [
+                            "I got to my apartment, tore open the packaging, and took a crunchy bite into the pressed bread stuffed with grilled chicken breast, lettuce, tomato, and crispy potato sticks."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "sangria pitchers",
+                "reviews": [
+                    {
+                        "review_id": "32",
+                        "sentences": [
+                            "The staff are genuinely friendly, the food is great and the sangria pitchers are not all juice like most other places."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "super sweet",
+                "reviews": [
+                    {
+                        "review_id": "34",
+                        "sentences": [
+                            "For sides we got the tostones (deliciously garlicky) and the maduros (super sweet)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "today march",
+                "reviews": [
+                    {
+                        "review_id": "50",
+                        "sentences": [
+                            "Today march 9th 2017."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "con pollo",
+                "reviews": [
+                    {
+                        "review_id": "190",
+                        "sentences": [
+                            "We opted for the arroz con pollo and half roasted chicken."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "staff nuts",
+                "reviews": [
+                    {
+                        "review_id": "151",
+                        "sentences": [
+                            "The music gives it a fun vibe, but I'd imagine hearing the same playlist every day must drive the staff nuts...but you'd never know because the staff always brings a smile to your table."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "tiny amount",
+                "reviews": [
+                    {
+                        "review_id": "123",
+                        "sentences": [
+                            "So when the check arrives there is an additional, though nominal fee for this tiny amount of the sauce."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "crying baby",
+                "reviews": [
+                    {
+                        "review_id": "82",
+                        "sentences": [
+                            "Made an odd comment about a crying baby and forgot our beverage order for a while."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "alcohol selection",
+                "reviews": [
+                    {
+                        "review_id": "100",
+                        "sentences": [
+                            "pretty good, beautiful decor, well crafted menu and amazing alcohol selection."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "server sandra",
+                "reviews": [
+                    {
+                        "review_id": "83",
+                        "sentences": [
+                            "Our server Sandra was so attentive and helpful."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "shrimp dishes",
+                "reviews": [
+                    {
+                        "review_id": "62",
+                        "sentences": [
+                            "The food here is awesome with the classics like a Cuban sandwich and Ropa Vieja, but some others like the pork sandwiches and shrimp dishes are less expected and just as good."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "shake shack",
+                "reviews": [
+                    {
+                        "review_id": "162",
+                        "sentences": [
+                            "Grimaldi's, Shake Shack, Carlos Bakery)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban restauraunt",
+                "reviews": [
+                    {
+                        "review_id": "90",
+                        "sentences": [
+                            "granted my first time going to an actual cuban restauraunt, but it was delicious, great atmosphere!"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "town hall",
+                "reviews": [
+                    {
+                        "review_id": "171",
+                        "sentences": [
+                            "Seemed to have a town hall meeting about whether they should serve us.. right in front of us.. just left."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cuban bread",
+                "reviews": [
+                    {
+                        "review_id": "73",
+                        "sentences": [
+                            "Cafe con leche is always great and so is the toasted cuban bread."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "table adjacent",
+                "reviews": [
+                    {
+                        "review_id": "65",
+                        "sentences": [
+                            "Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "family type",
+                "reviews": [
+                    {
+                        "review_id": "8",
+                        "sentences": [
+                            "I went for a family type bachelorette dinner for my sis in law."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "cocktail menu",
+                "reviews": [
+                    {
+                        "review_id": "97",
+                        "sentences": [
+                            "Great recommendion from the bartender who came by personally to discuss whisky options which were not in the main cocktail menu.",
+                            "Also their rum selection in the cocktail menu do not have price of it for which you have to ask individually."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "filling lunch",
+                "reviews": [
+                    {
+                        "review_id": "62",
+                        "sentences": [
+                            "It's the perfect place for a filling lunch or a nice dinner."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "spanish tile",
+                "reviews": [
+                    {
+                        "review_id": "173",
+                        "sentences": [
+                            "Soaring ceilings with Caribbean style fans, beautiful Spanish tile floors, the rest of the interior white, airy and chic."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "bianchi cab",
+                "reviews": [
+                    {
+                        "review_id": "139",
+                        "sentences": [
+                            "Recommend the pineapple habanero mojito and the Bianchi Cab."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "family dinner",
+                "reviews": [
+                    {
+                        "review_id": "8",
+                        "sentences": [
+                            "It was clearly a family dinner.",
+                            "It was a nice gesture, but it was clearly a family dinner & I don't understand why he kept pushing us to take tequila shots, even offering to bring us more & then told us he'd drive us home."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "kitchen area",
+                "reviews": [
+                    {
+                        "review_id": "177",
+                        "sentences": [
+                            "It was pretty crowed but we managed to get seated quickly near the back kitchen area next to the bar."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "birthday cake",
+                "reviews": [
+                    {
+                        "review_id": "123",
+                        "sentences": [
+                            "I showed up with a birthday cake and was told there would be a \"cutting fee\" of $1.50 per slice."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "hour mojitos",
+                "reviews": [
+                    {
+                        "review_id": "74",
+                        "sentences": [
+                            "$5 happy hour mojitos and empanadas are worth a stop."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "nice decor",
+                "reviews": [
+                    {
+                        "review_id": "12",
+                        "sentences": [
+                            "Nice decor, lighting, music."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "lime flavors",
+                "reviews": [
+                    {
+                        "review_id": "33",
+                        "sentences": [
+                            "I had the lechon asado which was not nearly as flavorful as it should be (mojo sauce lacked garlic and lime flavors I expect)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "latinx joints",
+                "reviews": [
+                    {
+                        "review_id": "70",
+                        "sentences": [
+                            "I really wanted to like this place beacuse I am Latina and I love supporting Latinx joints but alas..."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "amazing crust",
+                "reviews": [
+                    {
+                        "review_id": "38",
+                        "sentences": [
+                            "The salmon had this amazing crust on it and the rice was excellent."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "shrimp anyway",
+                "reviews": [
+                    {
+                        "review_id": "56",
+                        "sentences": [
+                            "Who serves those shrimp anyway?"
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "shrimp app",
+                "reviews": [
+                    {
+                        "review_id": "85",
+                        "sentences": [
+                            "The garlic shrimp app was awesome and the papa rellena was SO GOOD."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "raw inside",
+                "reviews": [
+                    {
+                        "review_id": "3",
+                        "sentences": [
+                            "The salmon wasnt cooked (raw inside)."
+                        ]
+                    }
+                ]
+            },
+            {
+                "phrase": "brunch cocktails",
+                "reviews": [
+                    {
+                        "review_id": "63",
+                        "sentences": [
+                            "We also ordered 2 brunch cocktails which WERE STRONG!"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

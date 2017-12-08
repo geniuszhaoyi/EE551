@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        .subtitle {
+            border-bottom: 1px solid black;
+        }
+        /* input[type=text] {
+            width: 130px;
+            box-sizing: border-box;
+            border: 2px solid #ccc;
+            border-radius: 4px;
+            font-size: 16px;
+            background-color: white;
+            background-image: url('searchicon.png');
+            background-position: 10px 10px;
+            background-repeat: no-repeat;
+            padding: 12px 20px 12px 40px;
+            -webkit-transition: width 0.4s ease-in-out;
+            transition: width 0.4s ease-in-out;
+        }
+
+        input[type=text]:focus {
+            width: 100%;
+        } */
+    </style>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.js"></script>
+</head>
+
+<body>
+
+
+    <p>Restaurant Highlights Searching</p>
+
+    <input type="text" name="search" id='restaurantName' placeholder="Search..">
+    <input type="button" id='submit' value="Submit"><br><br>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#submit').click(function () {
+                $(".highlights").html("")
+                console.log('asd')
+                console.log(encodeURI($('#restaurantName').val()))
+                $.ajax({
+                    url: '/get?name=' + encodeURI($('#restaurantName').val()),
+                    type: 'get',
+                    success: function (data) {
+                        console.log(data)
+                        var json = $.parseJSON(data)
+                        for(var hl of json['good']) {
+                            $("#good_highlights").append("<div class='good_highlights'>" + hl + "</div>")
+                        }
+                        for(var hl of json['bad']) {
+                            $("#bad_highlights").append("<div class='bad_highlights'>" + hl + "</div>")
+                        }
+                    }
+                });
+            });
+        });
+    </script>
+
+    <table border="1">
+        <tr>
+            <td valign="top" style="width:50vw; ">
+                <div>
+                    <div class='subtitle'>What is good: </div>
+                    <div class='highlights' id='good_highlights'></div>
+                </div>
+            </td>
+            <td valign="top" style="width:50vw; ">
+                <div>
+                    <div class='subtitle'>What is bad: </div>
+                    <div class='highlights' id='bad_highlights'></div>
+                </div>
+            </td>
+        </tr>
+    </table>
+
+
+
+</html>

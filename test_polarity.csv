@@ -1,0 +1,524 @@
+,phrase,polarity,restaurantId,review_id,sentence,sentence_id
+0,dirty rice,0.0,customer_0,0,The moro (dirty rice) was not as moist as I would've liked.,1
+1,sub par,0.0,customer_0,0,The service was sub par.,2
+2,brunch menu,0.5833333333333334,customer_0,2,They have a great selection and a pretty good brunch menu,1
+3,creamy sauce,-0.14038461538461539,customer_0,3,"The spinach was raw, the chicken had a creamy sauce and placed on top of the raw spinach.",6
+4,raw spinach,-0.14038461538461539,customer_0,3,"The spinach was raw, the chicken had a creamy sauce and placed on top of the raw spinach.",6
+5,chicken soup,-0.6,customer_0,3,I ordered the chicken soup $5 and salmon $22 for my daughter.,7
+6,salmon wasnt,-0.23076923076923078,customer_0,3,The salmon wasnt cooked (raw inside).,11
+7,raw inside,-0.23076923076923078,customer_0,3,The salmon wasnt cooked (raw inside).,11
+8,fishy smell,-0.08888888888888885,customer_0,3,They took it back to cook it but it had a strong fishy smell and bad flavor.,12
+9,dish chicken,-0.12142857142857141,customer_0,3,She got the special dish Chicken with mushrooms $27 and the pineapple jalapeno mojito.,15
+10,pineapple jalapeno,-0.12142857142857141,customer_0,3,She got the special dish Chicken with mushrooms $27 and the pineapple jalapeno mojito.,15
+11,jalapeno mojito,-0.12142857142857141,customer_0,3,She got the special dish Chicken with mushrooms $27 and the pineapple jalapeno mojito.,15
+12,bit better,0.04166666666666666,customer_0,5,"Won't be back mainly because service is bad/slow, appetizers were mediocre, entrees a bit better.",1
+13,family type,0.0,customer_0,8,I went for a family type bachelorette dinner for my sis in law.,1
+14,type bachelorette,0.0,customer_0,8,I went for a family type bachelorette dinner for my sis in law.,1
+15,bachelorette dinner,0.0,customer_0,8,I went for a family type bachelorette dinner for my sis in law.,1
+16,family dinner,0.10000000000000002,customer_0,8,It was clearly a family dinner.,2
+17,red flag,0.0,customer_0,8,"Should have taken this as a red flag, especially since I'm only 19 & I wasn't even carded.",7
+18,tequila shots,0.0,customer_0,8,He was so upset 20 minutes later when he showed up & none of us drank those tequila shots.,8
+19,family dinner,0.39999999999999997,customer_0,8,"It was a nice gesture, but it was clearly a family dinner & I don't understand why he kept pushing us to take tequila shots, even offering to bring us more & then told us he'd drive us home.",9
+20,tequila shots,0.39999999999999997,customer_0,8,"It was a nice gesture, but it was clearly a family dinner & I don't understand why he kept pushing us to take tequila shots, even offering to bring us more & then told us he'd drive us home.",9
+21,payment method,0.0,customer_0,8,No one said anything about our payment method.,16
+22,parking pass,0.0,customer_0,8,"Two of us, me & the aunt, stepped back in briefly because our parking pass wasn't working.",18
+23,please someone,0.0,customer_0,8,Please someone explain to me how does that even make sense if we were only handed back the change.,30
+24,someone explain,0.0,customer_0,8,Please someone explain to me how does that even make sense if we were only handed back the change.,30
+25,parking ticket,-0.09375,customer_0,8,Little did she know we would come back for the parking ticket.,32
+26,customer service/food,0.0,customer_0,8,"Look, I work in customer service/food industry & I know how to act in these situations.",33
+27,service/food industry,0.0,customer_0,8,"Look, I work in customer service/food industry & I know how to act in these situations.",33
+28,way better,0.3,customer_0,8,I am a 19 year old girl & I could have handled this WAY better than this grown man.,34
+29,grown man,0.3,customer_0,8,I am a 19 year old girl & I could have handled this WAY better than this grown man.,34
+30,la isla,1.0,customer_0,10,"Service: The service at ""La Isla's"" is excellent.",0
+31,right amount,0.2857142857142857,customer_0,10,"They don't rush you to order, they give you just the right amount of time to choose what to order.",2
+32,la isla,-0.05,customer_0,10,"In some places they take so long to give and take the check, well not at La Isla's a Cuban food delight.",5
+33,spinach chicken,0.08333333333333333,customer_0,11,"The spinach chicken dish is my favorite, it's so full of flavor and never disappoints.",2
+34,chicken dish,0.08333333333333333,customer_0,11,"The spinach chicken dish is my favorite, it's so full of flavor and never disappoints.",2
+35,nice decor,0.6,customer_0,12,"Nice decor, lighting, music.",1
+36,happy hour,0.4089285714285715,customer_0,13,"Came here for happy hour with my boyfriend, we loved our ceviche with plantain chips although I wish it was spicy but next time I'll ask for jalapenos, we also had the grilled pulpo it was good wish it was a little more charred but not bad.",0
+37,plantain chips,0.4089285714285715,customer_0,13,"Came here for happy hour with my boyfriend, we loved our ceviche with plantain chips although I wish it was spicy but next time I'll ask for jalapenos, we also had the grilled pulpo it was good wish it was a little more charred but not bad.",0
+38,wine vallard,0.19305555555555554,customer_0,13,Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat.,1
+39,vallard sauvignon,0.19305555555555554,customer_0,13,Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat.,1
+40,sauvignon blanc,0.19305555555555554,customer_0,13,Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat.,1
+41,happy hour,0.19305555555555554,customer_0,13,Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat.,1
+42,hour deal,0.19305555555555554,customer_0,13,Drinks we usually stick to wine Vallard Sauvignon blanc which was fruity but not sweet so perfect with ceviche...so clearly no complaints their happy hour deal is half off by the glass and 5$ mojitos which you can't beat.,1
+43,uptown location,0.5,customer_0,14,Love the atmosphere at the uptown location.,0
+44,mignon raviolis,0.0,customer_0,14,Had carpaccio and filet mignon raviolis appetizers.,2
+45,raviolis appetizers,0.0,customer_0,14,Had carpaccio and filet mignon raviolis appetizers.,2
+46,red wine,0.18333333333333335,customer_0,14,The fresh pasta was bursting with tender seasoned meat in a red wine reduction.,4
+47,wine reduction,0.18333333333333335,customer_0,14,The fresh pasta was bursting with tender seasoned meat in a red wine reduction.,4
+48,port wine,0.0,customer_0,14,The carpaccio came with pickled onions and port wine sauce.,5
+49,wine sauce,0.0,customer_0,14,The carpaccio came with pickled onions and port wine sauce.,5
+50,cuban spot,0.7,customer_0,16,This Is a good Cuban spot to try if your in uptown Hoboken.,0
+51,morning coffee,0.0,customer_0,19,Just moved to town from Miami and was looking for a morning coffee spot.,0
+52,coffee spot,0.0,customer_0,19,Just moved to town from Miami and was looking for a morning coffee spot.,0
+53,un caf,0.0,customer_0,19,Asked for un caf cubano and the lady looked at me like I had 10 heads.,1
+54,caf cubano,0.0,customer_0,19,Asked for un caf cubano and the lady looked at me like I had 10 heads.,1
+55,cuban coffee,0.10000000000000002,customer_0,19,Clearly they have no idea what a Cuban coffee is.,3
+56,youtube video,0.0,customer_0,19,Watch a YouTube video or something!,4
+57,la isla,0.20833333333333334,customer_0,20,La Isla - Uptown has a very different feel than their original location on First & Washington in Hoboken.,0
+58,homey mom,0.1361111111111111,customer_0,20,"Unlike the homey mom and pop feel of the original location, Las Isla uptown has a modern, clean, upscale vibe - nothing wrong with that just something to note if you'd been to the original location and are expecting the same experience.",1
+59,isla uptown,0.1361111111111111,customer_0,20,"Unlike the homey mom and pop feel of the original location, Las Isla uptown has a modern, clean, upscale vibe - nothing wrong with that just something to note if you'd been to the original location and are expecting the same experience.",1
+60,cafe con,1.0,customer_0,22,Cafe con leche is the best cuban coffee i've ever had.,0
+61,con leche,1.0,customer_0,22,Cafe con leche is the best cuban coffee i've ever had.,0
+62,cuban coffee,1.0,customer_0,22,Cafe con leche is the best cuban coffee i've ever had.,0
+63,reason bobby,-0.15555555555555559,customer_0,22,There's a reason bobby flay lost this thrown down.,1
+64,bobby flay,-0.15555555555555559,customer_0,22,There's a reason bobby flay lost this thrown down.,1
+65,customer service,1.0,customer_0,23,The customer service is very good tho!,3
+66,uptown location,0.5,customer_0,24,I love this uptown location for dinner.,0
+67,group dinner,0.43749999999999994,customer_0,24,It's nice and pretty inside and good for date night or for an intimate group dinner.,1
+68,serves liquor,-0.125,customer_0,25,"I would deff recommend this place also FYI there's two locations, the uptown one serves liquor the other one doesn't",2
+69,awesome white,0.5,customer_0,26,He makes an awesome white sangria!,2
+70,white sangria,0.5,customer_0,26,He makes an awesome white sangria!,2
+71,tres leches,-1.0,customer_0,28,Tres leches was awful.,1
+72,yuca app,0.7,customer_0,28,Yuca app was good.,2
+73,pineapple jalpeno,0.9099999999999999,customer_0,29,Had the pineapple jalpeno mojito that was very good.,4
+74,jalpeno mojito,0.9099999999999999,customer_0,29,Had the pineapple jalpeno mojito that was very good.,4
+75,bar setup,0.6,customer_0,31,I liked the bar setup and the tables all around.,2
+76,red sangria,0.21666666666666665,customer_0,31,"We started with the red sangria, it was strong AF.",3
+77,yuca fries,-0.21999999999999997,customer_0,31,"We also had the yuca fries (highly recommend), the veggie and chicken empanadas, and ceviche.",6
+78,cuban restaurants,0.5333333333333333,customer_0,32,I love Cuban food and I've been to Cuban restaurants all over including The Cuban (in Hoboken) and authentic Cuban restaurants in Miami and this place can hold its own.,1
+79,sangria pitchers,0.3875,customer_0,32,"The staff are genuinely friendly, the food is great and the sangria pitchers are not all juice like most other places.",2
+80,downtown location,0.5,customer_0,32,The ambiance is nothing like the downtown location and in my opinion the food is even better.,4
+81,lechon asado,-0.05,customer_0,33,I had the lechon asado which was not nearly as flavorful as it should be (mojo sauce lacked garlic and lime flavors I expect).,2
+82,mojo sauce,-0.05,customer_0,33,I had the lechon asado which was not nearly as flavorful as it should be (mojo sauce lacked garlic and lime flavors I expect).,2
+83,lime flavors,-0.05,customer_0,33,I had the lechon asado which was not nearly as flavorful as it should be (mojo sauce lacked garlic and lime flavors I expect).,2
+84,medium portions,0.0,customer_0,33,Medium portions.,4
+85,sangria pitcher,0.22777777777777777,customer_0,34,We got a 1/2 white sangria pitcher (which was pretty strong) and each of us got a sandwich off the menu.,1
+86,cuban sandwich,0.25,customer_0,34,I got the Media Noche which was essentially the most tender Cuban sandwich I've ever had.,2
+87,super sweet,0.561111111111111,customer_0,34,For sides we got the tostones (deliciously garlicky) and the maduros (super sweet).,3
+88,skirt steak,0.0,customer_0,35,Pitcher of red sangria and skirt steak and your set.,1
+89,window side,0.6,customer_0,36,Was seated immediately in a nice window side table.,1
+90,side table,0.6,customer_0,36,Was seated immediately in a nice window side table.,1
+91,brunch menu,0.4,customer_0,36,The brunch menu is lengthy but all sounds fantastic.,2
+92,couple months,1.0,customer_0,36,Looking forward to when I move to Hoboken in a couple months and can revisit this great place!,9
+93,birthday dinner,0.8,customer_0,38,Came here for my birthday dinner and it was a great choice.,0
+94,amazing crust,0.8,customer_0,38,The salmon had this amazing crust on it and the rice was excellent.,2
+95,hudson county,0.39999999999999997,customer_0,40,The absolute best Spanish food in Hudson County!,0
+96,la isla,0.5,customer_0,41,Always love dining at La Isla - either uptown or downtown.,0
+97,cubano sandwich,-0.5,customer_0,41,I'm obsessed with the Cubano sandwich and iced Cuban latte.,3
+98,cuban latte,-0.5,customer_0,41,I'm obsessed with the Cubano sandwich and iced Cuban latte.,3
+99,cuban favorites,0.2833333333333333,customer_0,42,"All Cuban favorites from sandwiches, roasts and stew are available among some decent fish entrees.",2
+100,decent fish,0.2833333333333333,customer_0,42,"All Cuban favorites from sandwiches, roasts and stew are available among some decent fish entrees.",2
+101,fish entrees,0.2833333333333333,customer_0,42,"All Cuban favorites from sandwiches, roasts and stew are available among some decent fish entrees.",2
+102,bar area,0.0,customer_0,43,"I came with my girlfriend to celebrate our anniversary, and we sat by the bar area.",1
+103,bartender cindy,0.5501785714285714,customer_0,43,The bartender Cindy was very attentive and made the night very special for us!,2
+104,cuban cuisine,0.4125,customer_0,44,"The food is great, their specials are often times innovative but simultaneously stay true to traditional Cuban cuisine.",2
+105,uber ride,0.23333333333333336,customer_0,47,I hope my uber ride is long enough to write about how amazing our experience was!,2
+106,waitress sandra,0.45,customer_0,47,First off our waitress Sandra was amazing very informative and enthusiastic!,3
+107,uptown location,0.26785714285714285,customer_0,47,"We been to the original location many times, this was our first time at the Uptown location and it certainly won't be our last!!",5
+108,downgrade alert,0.0,customer_0,48,Downgrade alert.,0
+109,nice waiter,-0.04999999999999993,customer_0,48,"The service has been spotty, one nice waiter then two bad ones etc.",3
+110,downtown location,-0.15000000000000002,customer_0,49,"If you LOVE their downtown location, you will HATE this uptown location.",0
+111,uptown location,-0.15000000000000002,customer_0,49,"If you LOVE their downtown location, you will HATE this uptown location.",0
+112,manhattan bank,0.0,customer_0,49,"It's got all the charm of a Manhattan bank branch, with staff attitude to match.",1
+113,bank branch,0.0,customer_0,49,"It's got all the charm of a Manhattan bank branch, with staff attitude to match.",1
+114,staff attitude,0.0,customer_0,49,"It's got all the charm of a Manhattan bank branch, with staff attitude to match.",1
+115,la isla,0.375,customer_0,49,"La Isla Downtown, of course, is a beloved fixture of Hoboken, with quirky decor, fast service, friendly staff and amazing food.",3
+116,isla downtown,0.375,customer_0,49,"La Isla Downtown, of course, is a beloved fixture of Hoboken, with quirky decor, fast service, friendly staff and amazing food.",3
+117,cubano sandwich,0.16666666666666669,customer_0,49,"The food here was merely ""okay,"" although my Cubano sandwich was slightly undercooked, and the Morir Sonando for some reason was disguised as a yuppie frapp.",4
+118,morir sonando,0.16666666666666669,customer_0,49,"The food here was merely ""okay,"" although my Cubano sandwich was slightly undercooked, and the Morir Sonando for some reason was disguised as a yuppie frapp.",4
+119,yuppie frapp,0.16666666666666669,customer_0,49,"The food here was merely ""okay,"" although my Cubano sandwich was slightly undercooked, and the Morir Sonando for some reason was disguised as a yuppie frapp.",4
+120,discarding everything,0.5875,customer_0,49,"I understand that a business would like to expand, but doing so by discarding everything that made the original great is a losing proposition.",6
+121,washington street,0.26666666666666666,customer_0,49,"I'll happily go back to the one on Washington Street, but I'm never setting foot here again, and if you care about a great Cuban experience, I suggest you do the same.",7
+122,cuban experience,0.26666666666666666,customer_0,49,"I'll happily go back to the one on Washington Street, but I'm never setting foot here again, and if you care about a great Cuban experience, I suggest you do the same.",7
+123,today march,0.0,customer_0,50,Today march 9th 2017.,0
+124,warm smile,0.5666666666666667,customer_0,51,"The waiter looked that the laughing kids and said ""Oh it's Happy Hour"" and gave us all a warm smile.",4
+125,skirt stale,0.3,customer_0,52,"Food was good except my skirt stale with ""chimichurri"" sauce was not that good.",5
+126,location downtown,0.7,customer_0,54,I loved their location downtown and go to that all the time.,1
+127,lunch chicken,-0.12142857142857141,customer_0,54,I was in the mood for their lunch chicken special at dinner time and they made it for me even though it wasn't on the dinner menu.,4
+128,dinner time,-0.12142857142857141,customer_0,54,I was in the mood for their lunch chicken special at dinner time and they made it for me even though it wasn't on the dinner menu.,4
+129,dinner menu,-0.12142857142857141,customer_0,54,I was in the mood for their lunch chicken special at dinner time and they made it for me even though it wasn't on the dinner menu.,4
+130,shrimp anyway,0.0,customer_0,56,Who serves those shrimp anyway?,2
+131,weeknight dinner,0.0,customer_0,57,I'd recommend for a weeknight dinner.,8
+132,cuban reuben,0.5,customer_0,58,The Cuban Reuben and the burger are some of my favorite items to order.,3
+133,time supporter,0.1625,customer_0,60,I'm a long time supporter of La Isla downtown so I was really excited to visit this location when I heard about it.,0
+134,la isla,0.1625,customer_0,60,I'm a long time supporter of La Isla downtown so I was really excited to visit this location when I heard about it.,0
+135,isla downtown,0.1625,customer_0,60,I'm a long time supporter of La Isla downtown so I was really excited to visit this location when I heard about it.,0
+136,cuban places,0.42,customer_0,62,"There aren't many Cuban places to compare to, but with amazingly flavorful food, La Isla sets the bar high for the cuisine.",0
+137,la isla,0.42,customer_0,62,"There aren't many Cuban places to compare to, but with amazingly flavorful food, La Isla sets the bar high for the cuisine.",0
+138,bar high,0.42,customer_0,62,"There aren't many Cuban places to compare to, but with amazingly flavorful food, La Isla sets the bar high for the cuisine.",0
+139,space uptown,0.0,customer_0,62,The space Uptown feels airy and open compared to downtown.,1
+140,shrimp dishes,0.35833333333333334,customer_0,62,"The food here is awesome with the classics like a Cuban sandwich and Ropa Vieja, but some others like the pork sandwiches and shrimp dishes are less expected and just as good.",2
+141,cuban places,0.2916666666666667,customer_0,62,"Unlike other Cuban places, the plantains are very flavorful and even the rice and beans are great.",3
+142,filling lunch,0.8,customer_0,62,It's the perfect place for a filling lunch or a nice dinner.,4
+143,isla downtown,0.6000000000000001,customer_0,63,I've heard amazing things about la isla downtown however i have never been.,0
+144,uptown location,0.13636363636363635,customer_0,63,"When I heard about their new uptown location, I decided I want to try it out to celebrate my birthday.",1
+145,french toast,0.0,customer_0,63,"My husband ordered the Omar's stuffed French toast (since it was featured in food network) and I opted for the omelette which you get to choose 3 fillings (I ordered chorizo, manchego cheese, and maduros).",3
+146,cuban toast,0.22499999999999998,customer_0,63,The omelette was served with a small serving of their homefries (which were good) and Cuban toast (Yum).,5
+147,guava cheese,0.35,customer_0,63,I was expecting more guava cheese and not so much strawberry.,7
+148,brunch cocktails,0.5416666666666666,customer_0,63,We also ordered 2 brunch cocktails which WERE STRONG!,8
+149,passion fruit,0.0,customer_0,63,The passion fruit belini for me and el bucanero for my husband.,9
+150,fruit belini,0.0,customer_0,63,The passion fruit belini for me and el bucanero for my husband.,9
+151,el bucanero,0.0,customer_0,63,The passion fruit belini for me and el bucanero for my husband.,9
+152,hudson area,0.39999999999999997,customer_0,63,I found out to be really pricy but I've been spoiled by low cost delicious Cuban food in my north Hudson area.,13
+153,downtown location,0.0,customer_0,63,I can't say that I would come back but I would try the downtown location for lunch or dinner in the future.,14
+154,bit odd,0.040606060606060604,customer_0,64,"It was a bit odd, we went in without a reservation on New Years Day and they said the wait would be half an hour to 45 minutes, and then we commented that there were so many empty tables, then they changed their mind and seated us.",1
+155,years day,0.040606060606060604,customer_0,64,"It was a bit odd, we went in without a reservation on New Years Day and they said the wait would be half an hour to 45 minutes, and then we commented that there were so many empty tables, then they changed their mind and seated us.",1
+156,empty tables,0.040606060606060604,customer_0,64,"It was a bit odd, we went in without a reservation on New Years Day and they said the wait would be half an hour to 45 minutes, and then we commented that there were so many empty tables, then they changed their mind and seated us.",1
+157,pure waitress,0.21428571428571427,customer_0,65,Also the biggest factor was pure waitress.,2
+158,whip cream,0.0,customer_0,65,Then we ordered Cubaccino after our meal and she came back with these tiny glasses and never asked us if we wanted whip cream.,7
+159,table adjacent,0.0,customer_0,65,Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino.,8
+160,la isla,0.0,customer_0,65,Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino.,8
+161,isla mugs,0.0,customer_0,65,Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino.,8
+162,whip cream,0.0,customer_0,65,Meanwhile the table adjacent to us had the LA Isla mugs with whip cream and cinnamon for their Cubaccino.,8
+163,la isla,0.0,customer_0,66,I grew up with La Isla.,0
+164,bit late,-0.2041666666666667,customer_0,69,"We were there a bit late, maybe a little after 8:30, the dinner specials were already sold out, so was one other item on the menu that my friend wanted to order.",3
+165,dinner specials,-0.2041666666666667,customer_0,69,"We were there a bit late, maybe a little after 8:30, the dinner specials were already sold out, so was one other item on the menu that my friend wanted to order.",3
+166,shrimp dish,0.2,customer_0,69,I ordered a shrimp dish that was very creamy and tasty.,5
+167,chicken dish,-0.6,customer_0,69,My friend ordered a chicken dish which was tender and tasty as well.,6
+168,drink choices,0.1375,customer_0,69,Overall I think this is a pretty fun place with solid food and drink choices.,9
+169,la isla,0.0,customer_0,70,Visited La Isla for a girls night dinner.,0
+170,latinx joints,0.13749999999999998,customer_0,70,I really wanted to like this place beacuse I am Latina and I love supporting Latinx joints but alas...,1
+171,downtown la,0.6,customer_0,73,Food is not as good as the downtown La Isla but the drinks more than make up for it.,0
+172,la isla,0.6,customer_0,73,Food is not as good as the downtown La Isla but the drinks more than make up for it.,0
+173,cafe con,0.8,customer_0,73,Cafe con leche is always great and so is the toasted cuban bread.,1
+174,con leche,0.8,customer_0,73,Cafe con leche is always great and so is the toasted cuban bread.,1
+175,cuban bread,0.8,customer_0,73,Cafe con leche is always great and so is the toasted cuban bread.,1
+176,bit hit,0.0,customer_0,74,Host and service are a bit hit or miss hence fewer stars.,1
+177,happy hour,0.55,customer_0,74,$5 happy hour mojitos and empanadas are worth a stop.,2
+178,hour mojitos,0.55,customer_0,74,$5 happy hour mojitos and empanadas are worth a stop.,2
+179,brunch spot,0.0,customer_0,75,I've heard this is THE brunch spot in Hoboken for a while and now that I've tried it I agree it lives up to the rumors.,0
+180,chimichuri steak,0.17857142857142858,customer_0,76,I got the chimichuri steak special and was charged an extra $3.50 for chimichuri.,3
+181,chicken dish,0.11666666666666668,customer_0,78,"Service is great, food is good (tried a few different things - the only thing I was not a fan of was the grilled chicken dish).",2
+182,storm amongst,-0.1,customer_0,79,"We arrived at 9:55pm and they told us that they were closed, mind you the ""hostesses"" were leaning against their podium and chatting up a storm amongst themselves, 2 guys and 2 girls.",4
+183,guy friend,0.5,customer_0,80,"The most recent time I went, I sat at the bar waiting for my guy friend and the bartender, Joseph, was awesome!",2
+184,tequila cocktail,0.6,customer_0,80,He was chatting me up and made me a spectacular tequila cocktail.,3
+185,al ajillo,0.0,customer_0,80,We also had the Camarones Enchilados o al Ajillo that was tasty.,8
+186,pollo al,0.75,customer_0,80,We ordered the Pollo al Ajillo con Espinaca for dinner and it was spectacular!,9
+187,al ajillo,0.75,customer_0,80,We ordered the Pollo al Ajillo con Espinaca for dinner and it was spectacular!,9
+188,ajillo con,0.75,customer_0,80,We ordered the Pollo al Ajillo con Espinaca for dinner and it was spectacular!,9
+189,con espinaca,0.75,customer_0,80,We ordered the Pollo al Ajillo con Espinaca for dinner and it was spectacular!,9
+190,lime martini,0.0,customer_0,80,"After dinner, I had a key lime martini.",12
+191,papa rellena,0.7,customer_0,81,"Not as good as downtown, my take out: 2 papa rellena, rice and beans.",0
+192,% juice,-0.16666666666666666,customer_0,81,My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container.,1
+193,% black,-0.16666666666666666,customer_0,81,My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container.,1
+194,black beans,-0.16666666666666666,customer_0,81,My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container.,1
+195,papa rellena,-0.16666666666666666,customer_0,81,My beans consisted of 75% juice and 25% black beans and 2 smooshed papa rellena in a container.,1
+196,oxtail stew,0.625,customer_0,82,Food was a 3.5-4 (oxtail stew and Cuban Reuben were enjoyable!).,0
+197,cuban reuben,0.625,customer_0,82,Food was a 3.5-4 (oxtail stew and Cuban Reuben were enjoyable!).,0
+198,crying baby,-0.18333333333333335,customer_0,82,Made an odd comment about a crying baby and forgot our beverage order for a while.,3
+199,beverage order,-0.18333333333333335,customer_0,82,Made an odd comment about a crying baby and forgot our beverage order for a while.,3
+200,downtown location,0.0,customer_0,82,"Although a totally different ballgame, we prefer the downtown location.",6
+201,la isla,0.8,customer_0,83,A great night all around at La Isla Uptown.,0
+202,isla uptown,0.8,customer_0,83,A great night all around at La Isla Uptown.,0
+203,server sandra,0.4,customer_0,83,Our server Sandra was so attentive and helpful.,3
+204,habanero mojito,0.85,customer_0,84,Let's start with the good: the Habanero Mojito was delicious.,0
+205,skirt steak,0.7,customer_0,84,My son's skirt steak was well executed and had good flavors.,3
+206,foot traffic,0.09999999999999999,customer_0,84,"Being Saturday night, it wasn't fun to be so close to the foot traffic, but I was in the aisle, so... Next, it was 60 degrees outside, yet the A/C was still on.",8
+207,ceiling fans,0.45714285714285713,customer_0,84,Probably wouldn't have been a problem if they didn't have a bunch of large ceiling fans going at a good clip.,9
+208,shrimp app,0.85,customer_0,85,The garlic shrimp app was awesome and the papa rellena was SO GOOD.,3
+209,papa rellena,0.85,customer_0,85,The garlic shrimp app was awesome and the papa rellena was SO GOOD.,3
+210,pork chop,0.65,customer_0,85,"The pork chop and the chimichurri steak were both great, and the sweet fried plantains are a great side.",4
+211,chimichurri steak,0.65,customer_0,85,"The pork chop and the chimichurri steak were both great, and the sweet fried plantains are a great side.",4
+212,pork chop-,1.0,customer_0,86,Pork chop- delicious.,1
+213,potato meat,1.0,customer_0,86,Fried mashed potato meat ball thing- delicious.,3
+214,meat ball,1.0,customer_0,86,Fried mashed potato meat ball thing- delicious.,3
+215,ball thing-,1.0,customer_0,86,Fried mashed potato meat ball thing- delicious.,3
+216,job everyone,0.7,customer_0,86,Good job everyone.,4
+217,isla downtown,0.85,customer_0,87,"I've been to La Isla downtown for breakfast (always so good, heavy..but good!!)",0
+218,customer service,-0.75,customer_0,89,"Unfortunately, tonight we had the worst customer service experience ever.",2
+219,service experience,-0.75,customer_0,89,"Unfortunately, tonight we had the worst customer service experience ever.",2
+220,cuban restauraunt,0.5625,customer_0,90,"granted my first time going to an actual cuban restauraunt, but it was delicious, great atmosphere!",0
+221,min shower,0.0,customer_0,91,there was a 10 min shower in the middle of one of the hottest days in the summer.,4
+222,surprise shower,0.0,customer_0,91,I had order 1hr before the surprise shower.,5
+223,uptown location,0.2,customer_0,91,Very dissapointed with this uptown location.,6
+224,downtown location,0.2,customer_0,91,the downtown location was great but alas they stopped deliveries.,7
+225,french toast,0.0,customer_0,94,We both order the French toast and wait in anticipation.,8
+226,cuban dishes,0.0798611111111111,customer_0,95,You can have a sit down dinner with all the traditional Cuban dishes that the original restaurant offers.,2
+227,downtown location,0.5,customer_0,96,The same excellent food that you could always find out their downtown location without the feeling of being in a cafeteria.,1
+228,uptown location,1.0,customer_0,96,The ambiance of the uptown location is wonderful.,2
+229,la isla,0.5,customer_0,96,La Isla consistently delicers delicious food and first class service.,4
+230,class service,0.5,customer_0,96,La Isla consistently delicers delicious food and first class service.,4
+231,cocktail menu,0.32222222222222224,customer_0,97,Great recommendion from the bartender who came by personally to discuss whisky options which were not in the main cocktail menu.,2
+232,rum selection,0.0,customer_0,97,Also their rum selection in the cocktail menu do not have price of it for which you have to ask individually.,3
+233,cocktail menu,0.0,customer_0,97,Also their rum selection in the cocktail menu do not have price of it for which you have to ask individually.,3
+234,yellow rice,0.4375,customer_0,98,"Yellow rice & beans, plantains so good!",4
+235,shrimp dish,-0.325,customer_0,99,"Very small portions for some items, like the shrimp enchilados (a shrimp dish in an olive, onion and tomato sauce).",1
+236,tomato sauce,-0.325,customer_0,99,"Very small portions for some items, like the shrimp enchilados (a shrimp dish in an olive, onion and tomato sauce).",1
+237,cuban sandwich,-0.06666666666666665,customer_0,99,My Cuban sandwich was way too dry.,3
+238,downtown location,0.5,customer_0,99,Downtown location is better for some reason.,4
+239,alcohol selection,0.6,customer_0,100,"pretty good, beautiful decor, well crafted menu and amazing alcohol selection.",0
+240,lunch tries,-0.12380952380952381,customer_0,102,The worst thing I could say about them is the bartender at lunch tries to get you to buy more expensive meal instead of daily special which they have Rotating set of three.,3
+241,stomach enjoys,0.0,customer_0,102,"My stomach enjoys the Meat which is always tasty and my wallet enjoys the affordable prices as sandwiches are around 10, daily specials 14 and the entrees can be had for 20.",5
+242,wallet enjoys,0.0,customer_0,102,"My stomach enjoys the Meat which is always tasty and my wallet enjoys the affordable prices as sandwiches are around 10, daily specials 14 and the entrees can be had for 20.",5
+243,yelp reviews,0.5,customer_0,103,"I would imagine that most people reading yelp reviews for restaurants care more about the food than anything else, so lets start there.",0
+244,star review,0.7,customer_0,104,If the food wasn't so good this would be a one star review.,5
+245,la isla,0.0,customer_0,105,Finally got a chance to try La Isla and now I can't wait to go back!,0
+246,ropa viejo,0.47500000000000003,customer_0,105,The Ropa Viejo was excellent as well as the pan con lechon (pork sandwich) and the dessert was worth getting even though we were completely stuffed!,3
+247,pan con,0.47500000000000003,customer_0,105,The Ropa Viejo was excellent as well as the pan con lechon (pork sandwich) and the dessert was worth getting even though we were completely stuffed!,3
+248,con lechon,0.47500000000000003,customer_0,105,The Ropa Viejo was excellent as well as the pan con lechon (pork sandwich) and the dessert was worth getting even though we were completely stuffed!,3
+249,pork sandwich,0.47500000000000003,customer_0,105,The Ropa Viejo was excellent as well as the pan con lechon (pork sandwich) and the dessert was worth getting even though we were completely stuffed!,3
+250,washington street,0.45833333333333337,customer_0,106,"The service was fine, food tasted just like the Washington street location & the sangria was my favorite part of the meal.",2
+251,street location,0.45833333333333337,customer_0,106,"The service was fine, food tasted just like the Washington street location & the sangria was my favorite part of the meal.",2
+252,awesome drink,1.0,customer_0,106,I recommend coming to this location if you want ambiance and an awesome drink with your dinner.,3
+253,ropa vieja,0.36904761904761907,customer_0,107,"I usually order the shrimp and garlic which is absolutely delicious, but figured I would try the ropa vieja which was on special Sunday night.",3
+254,super tender,0.6216666666666666,customer_0,107,"The dish itself was very good and super tender, just a bit too oily for me.",4
+255,papa rellena,0.4,customer_0,107,"The tostones and boiled yuca are always fantastic, as is the papa rellena.",6
+256,brunch menu,0.8,customer_0,107,They also have a GREAT brunch menu.,7
+257,sounding cocktails,0.5,customer_0,107,Looking forward to going back and trying one of their delicious sounding cocktails...,8
+258,pineapple habanero,0.0,customer_0,107,I have heard that the pineapple habanero mojito is everything.,9
+259,habanero mojito,0.0,customer_0,107,I have heard that the pineapple habanero mojito is everything.,9
+260,job la,0.875,customer_0,108,Good job La Isla!,2
+261,la isla,0.875,customer_0,108,Good job La Isla!,2
+262,host ladies,0.6,customer_0,109,And the two host ladies were just chatting their own stuff and had us wait.,2
+263,spinach salad,-0.15,customer_0,111,I had the spinach salad which was insanely fresh along w the shrimp in garlic sauce (off the menu) and the chicken empanada.,1
+264,chicken empanada,-0.15,customer_0,111,I had the spinach salad which was insanely fresh along w the shrimp in garlic sauce (off the menu) and the chicken empanada.,1
+265,la isla,0.0,customer_0,112,You can blame Laz @ Sparrow for La Isla's knock out beer selection.,1
+266,beer selection,0.0,customer_0,112,You can blame Laz @ Sparrow for La Isla's knock out beer selection.,1
+267,craft beer,0.0,customer_0,112,Cuban food and American Craft Beer?,2
+268,plantain chips,0.0,customer_0,113,To start we had the ceviche and plantain chips.,3
+269,ropa vieja,-0.16666666666666666,customer_0,113,I had the ropa vieja with yuca and black beans.,5
+270,sub par,0.0,customer_0,113,The beans were sub par.,6
+271,ropa vieja,0.0,customer_0,113,Yuca was nice though and the ropa Vieja was fucking perrrrrrfect so tender and juicy.,7
+272,cream sauce,0.2,customer_0,113,One of My friends had the chicken in the garlic and spinach cream sauce which was UNREAL delicious.,8
+273,miami beach,0.0,customer_0,113,Art Deco vibes like Miami beach 1970.,14
+274,french toast,0.0,customer_0,114,Not to mention their Strawberry Stuffed French Toast!,1
+275,host lady,-0.09375000000000003,customer_0,115,"The host lady was so dumb, we were late by 15 mins on a reservation and she tells me we don't honor the late showup (was I catching a flight?)",0
+276,dear friend,0.75,customer_0,116,Just enjoyed a wonderful dinner with my dear friend.,0
+277,amazing appetizer,0.4666666666666667,customer_0,116,"We were lucky to have Sandra as our server, who recommended an amazing appetizer of fish ribs.",2
+278,pacu fish,0.0,customer_0,116,We now know of the Pacu fish that makes four ribs to a fish.,3
+279,surprise dish,1.0,customer_0,116,It was a delicious surprise dish!,4
+280,uptown location,0.25,customer_0,117,"When this place opened initially at the uptown location, there were many issues to be resolved.",0
+281,service wise,0.5333333333333333,customer_0,119,Been coming here for quite some time now and it has been a great experience food and service wise so far.,1
+282,downtown location,0.4583333333333333,customer_0,120,"This place isn't the original, downtown location and that's more than okay with me.",0
+283,uptown location,0.3181818181818182,customer_0,120,I love this new uptown location.,1
+284,downtown location,0.34814814814814815,customer_0,120,"It's perfect for the upscale, sit down meal with friends and family; much moreso than the downtown location.",2
+285,answer questions,0.35416666666666663,customer_0,120,"Plus the servers are super friendly and accommodating, always eager to give out suggestions and answer questions.",4
+286,downtown location,0.13636363636363635,customer_0,120,"Just like the downtown location, the food is delectable; everytime I stop in there's always something new that I find on the menu that makes me want to return again.",5
+287,isla uptown,0.31534090909090906,customer_0,121,"Today was my first day coming to La Isla Uptown, I came with my best friend because we wanted to try something new other than Havana's.",0
+288,cuban cuisine,0.7000000000000001,customer_0,121,If you are looking for great Cuban cuisine come to La Isla's uptown because the atmosphere is great and the food is even better.,6
+289,cuisine come,0.7000000000000001,customer_0,121,If you are looking for great Cuban cuisine come to La Isla's uptown because the atmosphere is great and the food is even better.,6
+290,face every,-0.07500000000000001,customer_0,122,The sour puss on her face every time we asked for something was obvious.,3
+291,every time,-0.07500000000000001,customer_0,122,The sour puss on her face every time we asked for something was obvious.,3
+292,family member,0.35,customer_0,123,We celebrated a family member's birthday here.,0
+293,birthday cakes,0.0,customer_0,123,I called ahead and asked if they had cakes like in birthday cakes.,1
+294,birthday cake,-0.6,customer_0,123,"I showed up with a birthday cake and was told there would be a ""cutting fee"" of $1.50 per slice.",3
+295,members home,0.17500000000000002,customer_0,123,"So as a family we decided to enjoy the cake at a members home, since it was clearly not something the restaurant wanted.",5
+296,wait staff,1.0,customer_0,123,The dinner and wait staff were excellent.,6
+297,tiny amount,0.0,customer_0,123,"So when the check arrives there is an additional, though nominal fee for this tiny amount of the sauce.",8
+298,birthday part,-0.1,customer_0,123,Needless to say if took the fun out of the Birthday part of the dinner.,16
+299,french toast,-0.11944444444444445,customer_0,125,A friend of mine ordered the stuffed french toast and it was hard and dry.,3
+300,service w,0.6,customer_0,125,The place is nicely decorated i will say and service w,5
+301,downtown location,0.8,customer_0,126,I've been going to the downtown location for YEARS but this one is great also.,1
+302,coconut cream,0.0,customer_0,126,I forget the drink's name but it had tequila and coconut cream and I recommend it.,4
+303,la isla,0.5,customer_0,127,Cannot say enough about how wonderful our experience at La Isla was!,0
+304,tres leches,0.3,customer_0,127,She gave us a sample of the wine to make sure we liked it before purchasing the entire bottle and was able to get us an order of Tres Leches even after the kitchen had closed.,2
+305,tres leches,0.375,customer_0,127,"Lastly, I have never had a more delicious Tres Leches cake than I did here last night.",6
+306,perfect blend,1.0,customer_0,127,It was the perfect blend of spongey and milky.,7
+307,trendy ambiance,0.5866666666666667,customer_0,127,Highly recommend this place to anyone looking for a trendy ambiance with delicious food and drinks!,9
+308,tres leches,1.0,customer_0,128,Then for dessert we got the tres leches cake - which is probably the best tres leches cake I had.,3
+309,uptown location,0.6125,customer_0,129,"The uptown location is beautifully decorated, the staff is friendly and the expanded menu is on point.",2
+310,customer service,0.37500000000000006,customer_0,131,"The staff was on point with their customer service, especially Joe and Sandra; the food was amazing!",3
+311,cafe con,-0.75,customer_0,131,Convinced my friends to try the cafe con leche - and they weren't disappointed.,4
+312,con leche,-0.75,customer_0,131,Convinced my friends to try the cafe con leche - and they weren't disappointed.,4
+313,french toast,0.4,customer_0,132,The brunch is great for their crunchy stuffed french toast.,2
+314,french toast,0.39999999999999997,customer_0,132,It really IS the best french toast you will ever have.,3
+315,brunch drinks,0.3166666666666667,customer_0,132,We had a few brunch drinks that were also great (they have a full bar).,5
+316,la isla,0.4989285714285714,customer_0,133,La Isla Uptown-Decor- great Food- very good when finally brought out the right temperature.,0
+317,isla uptown-decor-,0.4989285714285714,customer_0,133,La Isla Uptown-Decor- great Food- very good when finally brought out the right temperature.,0
+318,right temperature,0.4989285714285714,customer_0,133,La Isla Uptown-Decor- great Food- very good when finally brought out the right temperature.,0
+319,drink order,0.13333333333333333,customer_0,133,"Our ""server"" Sandra however was personable, but something was very off- She took our drink order n came back in 10 mins asking us if we were ready to order drinks.",1
+320,order drinks,0.13333333333333333,customer_0,133,"Our ""server"" Sandra however was personable, but something was very off- She took our drink order n came back in 10 mins asking us if we were ready to order drinks.",1
+321,beer glass,-0.13055555555555556,customer_0,133,"A beer glass half full, was accidentally knocked over n broke, we asked for her help in which she took her time returning with napkins she handed to us and left the broken glass all over the table with the half broken beer glass standing n beer spilled all over the table dripping on my pants.",5
+322,glass half,-0.13055555555555556,customer_0,133,"A beer glass half full, was accidentally knocked over n broke, we asked for her help in which she took her time returning with napkins she handed to us and left the broken glass all over the table with the half broken beer glass standing n beer spilled all over the table dripping on my pants.",5
+323,beer glass,-0.13055555555555556,customer_0,133,"A beer glass half full, was accidentally knocked over n broke, we asked for her help in which she took her time returning with napkins she handed to us and left the broken glass all over the table with the half broken beer glass standing n beer spilled all over the table dripping on my pants.",5
+324,glass standing,-0.13055555555555556,customer_0,133,"A beer glass half full, was accidentally knocked over n broke, we asked for her help in which she took her time returning with napkins she handed to us and left the broken glass all over the table with the half broken beer glass standing n beer spilled all over the table dripping on my pants.",5
+325,interviewing staff,0.3875,customer_0,133,"Such a pretty place w great food, I suggest they spend a bit more time on interviewing staff to match the level.",6
+326,level diner,0.0,customer_0,133,I couldnt imagine this level of service in a low level diner.,7
+327,cold entree,-0.6,customer_0,133,They took the cold entree off our bill- but charged us for Patrone Silver margaritas for which we received Mojitos.,9
+328,patrone silver,-0.6,customer_0,133,They took the cold entree off our bill- but charged us for Patrone Silver margaritas for which we received Mojitos.,9
+329,silver margaritas,-0.6,customer_0,133,They took the cold entree off our bill- but charged us for Patrone Silver margaritas for which we received Mojitos.,9
+330,uptown spot,0.0,customer_0,134,1st time at the Uptown spot.,0
+331,baca frita,0.0,customer_0,135,"For a cuban restaurant not to have masitas de Puerco , baca Frita , ropa Vieja on the menu.",6
+332,ropa vieja,0.0,customer_0,135,"For a cuban restaurant not to have masitas de Puerco , baca Frita , ropa Vieja on the menu.",6
+333,la isla,0.5,customer_0,136,"We ordered La Isla for pick-up last night and I must say, I was impressed.",0
+334,downtown location,0.0625,customer_0,136,"The first time we dined in here, I was not as enthused about the food here partly due to the reputation of the downtown location and the quality of what we ordered.",1
+335,downtown location,0.2916666666666667,customer_0,138,We really love the downtown location and were excited to eat at the uptown one on a recent date night without the kids!,1
+336,blank stare,0.0,customer_0,138,We just got a blank stare -- and they told us no we don't have your reservation.,4
+337,fine establishments,0.038888888888888896,customer_0,138,We have dined at fine establishments around the world and have never encountered such rude service.,6
+338,rude service,0.038888888888888896,customer_0,138,We have dined at fine establishments around the world and have never encountered such rude service.,6
+339,la isla,0.5,customer_0,138,The attitude encountered at La Isla was stunning.,10
+340,homemade flavor,0.3,customer_0,139,Fresh homemade flavor.,2
+341,cocktail list,1.0,customer_0,139,Cocktail list is awesome.,4
+342,pineapple habanero,0.0,customer_0,139,Recommend the pineapple habanero mojito and the Bianchi Cab.,5
+343,habanero mojito,0.0,customer_0,139,Recommend the pineapple habanero mojito and the Bianchi Cab.,5
+344,bianchi cab,0.0,customer_0,139,Recommend the pineapple habanero mojito and the Bianchi Cab.,5
+345,cuban sandwich,-0.09999999999999999,customer_0,139,"Cuban sandwich , Isla salad, and chicken noodle soup ... All worth going back for.",7
+346,noodle soup,-0.09999999999999999,customer_0,139,"Cuban sandwich , Isla salad, and chicken noodle soup ... All worth going back for.",7
+347,waitress sandra,0.75,customer_0,141,Waitress Sandra is awesome :),1
+348,downtown location,0.33,customer_0,142,I had high hopes for this place before it opened since it's more convenient for me than the downtown location.,0
+349,sour taste,0.016666666666666663,customer_0,142,"The interior looked very upscale, but my experience eating there really left a sour taste in my mouth.",1
+350,hour wait,0.1875,customer_0,142,"Of course, the hour wait may not have helped my impressions, but I was still excited to eat when we finally were taken to our table.",2
+351,drink orders,0.1111111111111111,customer_0,142,"Unfortunately, the service was spotty at best (we couldn't even get our server to bring water to the table within 10 minutes of sitting down, and our drink orders didn't come for nearly 30 minutes).",3
+352,sweet dog,0.4375,customer_0,143,"Ask for Sandra, and then ask her about her sweet dog Xena, like the princess!",1
+353,dog xena,0.4375,customer_0,143,"Ask for Sandra, and then ask her about her sweet dog Xena, like the princess!",1
+354,steak chimichura,0.012500000000000011,customer_0,143,We ordered beef and chicken empanadas to start and then most at the table had the steak chimichura - not that name on the menu but you will find it!,3
+355,downtown location,0.55,customer_0,144,If you liked the downtown location then you will love the classed up uptown location.,0
+356,soggy empanada,-0.05,customer_0,145,"2.5 hours later a soggy empanada, wet meally shrimp and leathery steak.",1
+357,leathery steak,-0.05,customer_0,145,"2.5 hours later a soggy empanada, wet meally shrimp and leathery steak.",1
+358,phone didnt,0.0,customer_0,145,woman I spoke to on the phone didnt seem to care I that I called to complain about it.,2
+359,latin decor,0.3428571428571429,customer_0,148,"Amazing Latin decor, fresh flowers throughout the entire restaurant, especially when you walk into the bathroom --- I was greeted with this refreshing & alluring smell of my favorite flower - exotic tiger lilies.",0
+360,tiger lilies,0.3428571428571429,customer_0,148,"Amazing Latin decor, fresh flowers throughout the entire restaurant, especially when you walk into the bathroom --- I was greeted with this refreshing & alluring smell of my favorite flower - exotic tiger lilies.",0
+361,virgin bloody,0.25142857142857145,customer_0,148,He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice.,3
+362,bloody mary,0.25142857142857145,customer_0,148,He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice.,3
+363,mary w/,0.25142857142857145,customer_0,148,He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice.,3
+364,right amount,0.25142857142857145,customer_0,148,He was very attentive and made me a delicious virgin Bloody Mary w/ just the right amount of spice.,3
+365,menu options,0.75,customer_0,149,Menu options were creative and the El Basero was delicious!,1
+366,el basero,0.75,customer_0,149,Menu options were creative and the El Basero was delicious!,1
+367,uptown location,0.3181818181818182,customer_0,150,Love the new uptown location.,0
+368,waitress sandra,0.65,customer_0,150,"Food was great, decor and ambiance fantastic, and our waitress Sandra was a delight!",1
+369,noise issue,0.43333333333333335,customer_0,151,They did such a great job with this space (now that they've mostly resolved the noise issue).,0
+370,front area,0.37500000000000006,customer_0,151,The front area was designed to look like the lunch counter downtown and the back is a stylish dining room with a nice bar and huge windows.,2
+371,lunch counter,0.37500000000000006,customer_0,151,The front area was designed to look like the lunch counter downtown and the back is a stylish dining room with a nice bar and huge windows.,2
+372,counter downtown,0.37500000000000006,customer_0,151,The front area was designed to look like the lunch counter downtown and the back is a stylish dining room with a nice bar and huge windows.,2
+373,dining room,0.37500000000000006,customer_0,151,The front area was designed to look like the lunch counter downtown and the back is a stylish dining room with a nice bar and huge windows.,2
+374,fun vibe,0.19999999999999998,customer_0,151,"The music gives it a fun vibe, but I'd imagine hearing the same playlist every day must drive the staff nuts...but you'd never know because the staff always brings a smile to your table.",3
+375,staff nuts,0.19999999999999998,customer_0,151,"The music gives it a fun vibe, but I'd imagine hearing the same playlist every day must drive the staff nuts...but you'd never know because the staff always brings a smile to your table.",3
+376,dinner destination,0.0,customer_0,151,"The addition of reservations makes Uptown a reliable dinner destination for your group, which downtown never could be.",5
+377,hour m-f,0.8,customer_0,151,And...they just introduced happy hour M-F 5-7.,6
+378,downtown location,0.175,customer_0,152,I always liked the downtown location but was too lazy to go there & wait for a table.,0
+379,uptown location,0.0,customer_0,152,Now the uptown location has become a go to breakfast & lunch spot.,1
+380,lunch spot,0.0,customer_0,152,Now the uptown location has become a go to breakfast & lunch spot.,1
+381,cuban sandwich,-0.6,customer_0,152,"I recommend the cuban sandwich, empanada & chicken club.",4
+382,customer service,0.8000000000000002,customer_0,154,"The portions are great, the variety is amazing and the customer service is excellent.",3
+383,carne con,0.0,customer_0,154,You have to try their carne con papa and their Isla burger is to die for!,4
+384,con papa,0.0,customer_0,154,You have to try their carne con papa and their Isla burger is to die for!,4
+385,isla burger,0.0,customer_0,154,You have to try their carne con papa and their Isla burger is to die for!,4
+386,guava french,0.25,customer_0,154,Needless to say that the guava french toast is the most delicious thing I have ever tasted!,5
+387,french toast,0.25,customer_0,154,Needless to say that the guava french toast is the most delicious thing I have ever tasted!,5
+388,la isla,0.13333333333333333,customer_0,155,"As always, the food at La Isla was fantastic, especially their key lime pie desert.",0
+389,lime pie,0.13333333333333333,customer_0,155,"As always, the food at La Isla was fantastic, especially their key lime pie desert.",0
+390,pie desert,0.13333333333333333,customer_0,155,"As always, the food at La Isla was fantastic, especially their key lime pie desert.",0
+391,oh man,0.16666666666666669,customer_0,156,"They lose a star from me because they tend to rush you--even on a Thursday night they're pushing you out and I don't like that feeling of ""oh man we better go now I can tell they want us to leave"" (we had been there less than an hour)",1
+392,la isla,0.875,customer_0,157,"La Isla, is about as good as it gets!",0
+393,frequent customer,0.1,customer_0,157,I was a frequent customer of the downtown location and would go there for breakfast a lot during the weekend.,1
+394,downtown location,0.1,customer_0,157,I was a frequent customer of the downtown location and would go there for breakfast a lot during the weekend.,1
+395,location uptown,0.125,customer_0,158,Heard they opened a larger location uptown and we were so excited to finally try it.,2
+396,downtown la,0.4,customer_0,159,Same great food and prices as the downtown La Isla.,1
+397,la isla,0.4,customer_0,159,Same great food and prices as the downtown La Isla.,1
+398,downtown location,0.11818181818181818,customer_0,160,"I live closer to their downtown location and frequently buy coffee there so when I heard this place opened and had a bar, I was so pumped.",1
+399,strip steak,0.0,customer_0,160,I ordered the salmon (which was recommended by the waiter) and my friend ordered the strip steak.,4
+400,home hungry,0.0,customer_0,160,They didn't charge me for the meal but I went home hungry and grossed out.,15
+401,la isla,-0.1759090909090909,customer_0,161,"I live across the street and had high hopes for La Isla but am so disappointed after three dinners over the past 2 months, I will never go again.",0
+402,dinner partner,0.0,customer_0,161,It was so noisy I couldn't talk to my dinner partner.,1
+403,head hurt,0.0,customer_0,161,My head hurt after 20 minutes of trying to scream to be heard above the restaurant noise.,2
+404,round greasy,-0.05,customer_0,161,"On my last try, I had the salty plantains and they were barely warm round greasy tasteless wafers.",4
+405,greasy tasteless,-0.05,customer_0,161,"On my last try, I had the salty plantains and they were barely warm round greasy tasteless wafers.",4
+406,tasteless wafers,-0.05,customer_0,161,"On my last try, I had the salty plantains and they were barely warm round greasy tasteless wafers.",4
+407,bean side,-0.16666666666666666,customer_0,161,The black bean side was lukewarm and the little (I mean tiny) beans were buried in a black watery substance.,5
+408,) beans,-0.16666666666666666,customer_0,161,The black bean side was lukewarm and the little (I mean tiny) beans were buried in a black watery substance.,5
+409,watery substance,-0.16666666666666666,customer_0,161,The black bean side was lukewarm and the little (I mean tiny) beans were buried in a black watery substance.,5
+410,hope someday,0.13333333333333328,customer_0,161,We really need a good casual restaurant in this location and hope someday one replaces La Isla Uptown.,7
+411,replaces la,0.13333333333333328,customer_0,161,We really need a good casual restaurant in this location and hope someday one replaces La Isla Uptown.,7
+412,la isla,0.13333333333333328,customer_0,161,We really need a good casual restaurant in this location and hope someday one replaces La Isla Uptown.,7
+413,isla uptown,0.13333333333333328,customer_0,161,We really need a good casual restaurant in this location and hope someday one replaces La Isla Uptown.,7
+414,growth breeds,-0.0625,customer_0,162,"I'm pretty skeptical of restaurants expanding, as I feel growth breeds mediocrity in cases where the restaurant wasn't really built for scaling (e.g.",0
+415,breeds mediocrity,-0.0625,customer_0,162,"I'm pretty skeptical of restaurants expanding, as I feel growth breeds mediocrity in cases where the restaurant wasn't really built for scaling (e.g.",0
+416,shake shack,0.0,customer_0,162,"Grimaldi's, Shake Shack, Carlos Bakery).",1
+417,la isla,-0.09166666666666666,customer_0,162,"So when I heard of Hoboken La Isla opening another location uptown, particularly in Maxwell, not surprisingly, I wasn't too enthused.",2
+418,location uptown,-0.09166666666666666,customer_0,162,"So when I heard of Hoboken La Isla opening another location uptown, particularly in Maxwell, not surprisingly, I wasn't too enthused.",2
+419,la isla,0.4,customer_0,162,"After all, Cuban food in Hoboken is fantastic between The Cuban, Zafra, and La Isla.",3
+420,downtown la,0.1875,customer_0,163,"The original, downtown La Isla had been featured on Throwdown with Bobby Flay, and its chef had even won for his stuffed French toast.",0
+421,la isla,0.1875,customer_0,163,"The original, downtown La Isla had been featured on Throwdown with Bobby Flay, and its chef had even won for his stuffed French toast.",0
+422,french toast,0.1875,customer_0,163,"The original, downtown La Isla had been featured on Throwdown with Bobby Flay, and its chef had even won for his stuffed French toast.",0
+423,wait time,-0.6,customer_0,163,"Well, rather than subjecting myself to the lengthy wait time, I decided to grab a Chicken sandwich to go.",2
+424,crunchy bite,-0.3,customer_0,163,"I got to my apartment, tore open the packaging, and took a crunchy bite into the pressed bread stuffed with grilled chicken breast, lettuce, tomato, and crispy potato sticks.",3
+425,crispy potato,-0.3,customer_0,163,"I got to my apartment, tore open the packaging, and took a crunchy bite into the pressed bread stuffed with grilled chicken breast, lettuce, tomato, and crispy potato sticks.",3
+426,potato sticks,-0.3,customer_0,163,"I got to my apartment, tore open the packaging, and took a crunchy bite into the pressed bread stuffed with grilled chicken breast, lettuce, tomato, and crispy potato sticks.",3
+427,lackluster toppings,-0.2722222222222222,customer_0,163,"As I swallowed, I slumped back in my seat, disappointed by the dry meat and lackluster toppings.",4
+428,back room,0.13,customer_0,165,Very very cramped in the back room.,2
+429,downtown joint,0.3333333333333333,customer_0,165,"It all might work if this was a quick in and out joint but it is designed as an upscale-ish uptown restaurant, not a downtown joint.",4
+430,plantain chips,-0.20833333333333331,customer_0,166,Black bean hummus served with plantain chips is a must!,1
+431,la isla,0.19318181818181818,customer_0,167,Hit the new la isla today for the first time.,0
+432,isla today,0.19318181818181818,customer_0,167,Hit the new la isla today for the first time.,0
+433,craft beer,0.0,customer_0,167,Solid craft beer list and cocktail list.,2
+434,beer list,0.0,customer_0,167,Solid craft beer list and cocktail list.,2
+435,cocktail list,0.0,customer_0,167,Solid craft beer list and cocktail list.,2
+436,spicy pineapple,0.8,customer_0,167,My date had a spicy pineapple vodka drink converted to a margarita and the staff was happy to accommodate.,3
+437,pineapple vodka,0.8,customer_0,167,My date had a spicy pineapple vodka drink converted to a margarita and the staff was happy to accommodate.,3
+438,vodka drink,0.8,customer_0,167,My date had a spicy pineapple vodka drink converted to a margarita and the staff was happy to accommodate.,3
+439,downtown location,0.0,customer_0,168,Always been a fan of the downtown location.,0
+440,la papa,0.3181818181818182,customer_0,168,Also has a new addition to the menu called the la Papa which is phenomenal.,2
+441,hours dinner,0.15,customer_0,169,"The staff tried to accommodate us by giving us complimentary empanadas and dessert, but not sure if a 2.5 hours dinner experience with just entrees ordered was justified.",3
+442,dinner experience,0.15,customer_0,169,"The staff tried to accommodate us by giving us complimentary empanadas and dessert, but not sure if a 2.5 hours dinner experience with just entrees ordered was justified.",3
+443,uptown location,0.24545454545454548,customer_0,170,The new uptown location has the same amazing menu and you have the space to spread out.,1
+444,amazing menu,0.24545454545454548,customer_0,170,The new uptown location has the same amazing menu and you have the space to spread out.,1
+445,craft beer,0.5333333333333333,customer_0,170,So happy this location is open and they have a great craft beer selection as well.,2
+446,beer selection,0.5333333333333333,customer_0,170,So happy this location is open and they have a great craft beer selection as well.,2
+447,town hall,0.14285714285714285,customer_0,171,Seemed to have a town hall meeting about whether they should serve us.. right in front of us.. just left.,1
+448,hall meeting,0.14285714285714285,customer_0,171,Seemed to have a town hall meeting about whether they should serve us.. right in front of us.. just left.,1
+449,drink orders,0.05,customer_0,172,"Our waitress barely came to the table... took forever to order and then once we ordered (and gave our drink orders as well), didn't see or hear from her for about 30-40 minutes.",4
+450,semi regular,0.17045454545454544,customer_0,173,"What a difference 12 blocks makes... As a semi regular at the original la isla location, I decided to try the new iteration.",0
+451,la isla,0.17045454545454544,customer_0,173,"What a difference 12 blocks makes... As a semi regular at the original la isla location, I decided to try the new iteration.",0
+452,isla location,0.17045454545454544,customer_0,173,"What a difference 12 blocks makes... As a semi regular at the original la isla location, I decided to try the new iteration.",0
+453,style fans,0.2833333333333333,customer_0,173,"Soaring ceilings with Caribbean style fans, beautiful Spanish tile floors, the rest of the interior white, airy and chic.",2
+454,spanish tile,0.2833333333333333,customer_0,173,"Soaring ceilings with Caribbean style fans, beautiful Spanish tile floors, the rest of the interior white, airy and chic.",2
+455,tile floors,0.2833333333333333,customer_0,173,"Soaring ceilings with Caribbean style fans, beautiful Spanish tile floors, the rest of the interior white, airy and chic.",2
+456,latin jazz,0.2,customer_0,173,Latin jazz vibrated gently in the background.,3
+457,keylime pie,0.0,customer_0,175,"We shared the keylime pie for dessert, yumm.",4
+458,washington st.,0.28409090909090906,customer_0,176,"Came relatively soon after their official opening and were able to get a table for two with ease across from the counter.The new establishment was noticeably louder and seemed designed to do a lot more than their location on Washington St. Yet,that's where the problems occurred.",0
+459,location uptown,0.13636363636363635,customer_0,177,My boyfriend and I went on Sunday night to the new location uptown.,0
+460,back kitchen,0.0875,customer_0,177,It was pretty crowed but we managed to get seated quickly near the back kitchen area next to the bar.,1
+461,kitchen area,0.0875,customer_0,177,It was pretty crowed but we managed to get seated quickly near the back kitchen area next to the bar.,1
+462,order dessert,0.1861111111111111,customer_0,177,"I have to say the food was excellent but it took an incredibly long time for us to get our food, drinks and even when we tried to order dessert it took so long that we had to again wave down someone to cancel the dessert order because we had to get going.",4
+463,dessert order,0.1861111111111111,customer_0,177,"I have to say the food was excellent but it took an incredibly long time for us to get our food, drinks and even when we tried to order dessert it took so long that we had to again wave down someone to cancel the dessert order because we had to get going.",4
+464,busy bartender,-0.05000000000000001,customer_0,177,"As all of this was going on I could see our waiter behind the bar/ in the kitchen talking and laughing with his staff, obviously too busy to help us with anything so the busy bartender and hostess kept coming over to get our drinks, desert and give us the check at the end of the meal.",5
+465,kitchen/ bar,0.0,customer_0,177,"The entire time we felt like we were pulling teeth trying to get anyone's attention all the while, watching our waiter in the kitchen/ bar talking and doing nothing.",6
+466,la isla,0.1481818181818182,customer_0,179,I had high hopes for the new location of La Isla.,0
+467,fun bartenders,0.55,customer_0,180,"And they have a bar - with great, hospitable and fun bartenders.",2
+468,bar area,0.6,customer_0,182,"The layout is spacious, there is a nice bar area and ample seating for groups of a variety of sizes.",2
+469,cuban flavor,0.2,customer_0,183,With a real Cuban flavor...,1
+470,summer vacation,0.0,customer_0,184,Felt like summer vacation.,3
+471,crazy ingredients,0.3,customer_0,184,No crazy ingredients.,7
+472,panara soup,0.0,customer_0,184,"Home made, not from a Panara soup bladder.",11
+473,soup bladder,0.0,customer_0,184,"Home made, not from a Panara soup bladder.",11
+474,coco flan,0.0,customer_0,184,For dessert I had the coco flan.,16
+475,perfect texture,1.0,customer_0,184,Perfect texture and flavor.,18
+476,nice sauce,0.6,customer_0,184,Nice sauce.,19
+477,cherry drizzle,0.5,customer_0,184,Ground coconut shavings on top with a cherry drizzle.,20
+478,la isla,-0.18181818181818182,customer_0,185,I've been to the La Isla downtown and found out about the new uptown location randomly.,0
+479,isla downtown,-0.18181818181818182,customer_0,185,I've been to the La Isla downtown and found out about the new uptown location randomly.,0
+480,uptown location,-0.18181818181818182,customer_0,185,I've been to the La Isla downtown and found out about the new uptown location randomly.,0
+481,see john,0.9,customer_0,185,"Come for the great drinks, incredible food, and go see John at the bar - awesome experience!",2
+482,awesome experience,0.9,customer_0,185,"Come for the great drinks, incredible food, and go see John at the bar - awesome experience!",2
+483,ropa vieja,0.4,customer_0,186,The ropa vieja was great especially with tostones covered in moj.,0
+484,coconut mojoitos,0.7,customer_0,186,The pineapple and coconut mojoitos were good.,1
+485,isla downtown,0.21212121212121213,customer_0,187,"I love La Isla downtown, this new location, big meh.",0
+486,decor uptown,-0.08787878787878789,customer_0,188,Nice new decor uptown but horrible service.,0
+487,customer service,-1.0,customer_0,188,Will not return- horrible customer service!,7
+488,disappointed- waste,-0.475,customer_0,188,Disappointed- waste of time.,8
+489,cauliflower brussels,0.17857142857142858,customer_0,189,Went here last week and had the swordfish special with cauliflower Brussels sprouts And a caper sauce.,0
+490,brussels sprouts,0.17857142857142858,customer_0,189,Went here last week and had the swordfish special with cauliflower Brussels sprouts And a caper sauce.,0
+491,caper sauce,0.17857142857142858,customer_0,189,Went here last week and had the swordfish special with cauliflower Brussels sprouts And a caper sauce.,0
+492,drink order,0.0,customer_0,190,Our waiter took our drink order but the beer list wasn't updated so we had a bit of confusion when figuring out what to order.,4
+493,beer list,0.0,customer_0,190,Our waiter took our drink order but the beer list wasn't updated so we had a bit of confusion when figuring out what to order.,4
+494,arroz con,-0.3833333333333333,customer_0,190,We opted for the arroz con pollo and half roasted chicken.,5
+495,con pollo,-0.3833333333333333,customer_0,190,We opted for the arroz con pollo and half roasted chicken.,5
+496,steam table,0.18142857142857144,customer_0,190,Since our food was a special of the night it actually came out of a steam table which normally would terrify me but in this case the food was still delicious and the chicken moist and tender.,6
+497,chicken moist,0.18142857142857144,customer_0,190,Since our food was a special of the night it actually came out of a steam table which normally would terrify me but in this case the food was still delicious and the chicken moist and tender.,6
+498,getting veggies,0.5,customer_0,190,We tried to be healthy by getting veggies but they were lathered in butter and garlic.,9
+499,noise factor,-0.15,customer_0,191,My only complaint is the noise factor.,1
+500,downtown spots,0.225,customer_0,193,Long awaited arrival of one of my favorite downtown spots uptown.,0
+501,upscale location,0.375,customer_0,193,The decor is nothing like the original; the is one feels like an upscale location that could be in Miami or in a hotel lobby in Cuba.,1
+502,hotel lobby,0.375,customer_0,193,The decor is nothing like the original; the is one feels like an upscale location that could be in Miami or in a hotel lobby in Cuba.,1
+503,cuban sandwich,0.7916666666666666,customer_0,194,The Cuban sandwich was excellent as was the Camarones Enchilados... Service was friendly and knowledgeable... Best part of the experience was the Habanero Mojito- its truly a must have!,0
+504,habanero mojito-,0.7916666666666666,customer_0,194,The Cuban sandwich was excellent as was the Camarones Enchilados... Service was friendly and knowledgeable... Best part of the experience was the Habanero Mojito- its truly a must have!,0
+505,la isla,0.43000000000000005,customer_0,195,"First off, my friend and I are huge fans of La Isla and have been going there for many many years, in fact, it's my favorite restaurant on the planet to date.",0
+506,location closer,0.17045454545454544,customer_0,195,We were so excited that they had decided to expand and open a new location closer to home.,1
+507,school cafeteria,0.42727272727272725,customer_0,195,"The new place looks amazing and the service was excellent, however it was extremely loud and we had to shout at our friends in order to be heard in a conversation, it was like being at an elementary school cafeteria during lunchtime.",3
+508,la isla,0.23654401154401153,customer_0,196,"I've eaten at the original La Isla down on Washington Street a few times and always enjoyed the food there, but I was especially glad when I noticed they were opening a second location closer to where I live.",0
+509,washington street,0.23654401154401153,customer_0,196,"I've eaten at the original La Isla down on Washington Street a few times and always enjoyed the food there, but I was especially glad when I noticed they were opening a second location closer to where I live.",0
+510,location closer,0.23654401154401153,customer_0,196,"I've eaten at the original La Isla down on Washington Street a few times and always enjoyed the food there, but I was especially glad when I noticed they were opening a second location closer to where I live.",0
+511,la isla,0.6,customer_0,196,"On Friday (07/03), my boyfriend and I decided to check this place out and see if it was just as good as the La Isla we've come to know and love.",1
+512,bill.i ate,0.2833333333333333,customer_0,197,"Food was not bad but I felt that I experienced a soft opening and ended up paying the bill.I ate there on July 4th and was offered a very basic menu (3 starters, 3 main courses).",0
+513,main courses,0.2833333333333333,customer_0,197,"Food was not bad but I felt that I experienced a soft opening and ended up paying the bill.I ate there on July 4th and was offered a very basic menu (3 starters, 3 main courses).",0
+514,la isla,0.25,customer_0,197,I really want La Isla to be a success but they need to get their act together otherwise people will just walk to The Cuban or Havana.,5
+515,months time,0.0,customer_0,197,I will try again in a months time and hopefully things will be different.,6
+516,cold appetizer,-0.13333333333333333,customer_0,198,Our waitress was lovely but service was SLOW - it took over 30 minutes for a cold appetizer to arrive.,2
+517,serving size,0.4,customer_0,198,I ordered a cocktail and it tasted great but there wasn't even a trace of alcohol in the drink and the serving size was tiny.,3
+518,la isla,0.65,customer_0,199,La Isla is one of my favorite Cuban restaurants in Hoboken and I am SO happy that they opened a location in uptown.,0
+519,cuban restaurants,0.65,customer_0,199,La Isla is one of my favorite Cuban restaurants in Hoboken and I am SO happy that they opened a location in uptown.,0
+520,downtown location,0.5,customer_0,199,This location is a lot more spacious and nicer than the downtown location.,2
+521,cuban sandwiches,0.7625,customer_0,199,Incredible food - I absolutely love their cuban sandwiches and Cuban coffee!,5
+522,cuban coffee,0.7625,customer_0,199,Incredible food - I absolutely love their cuban sandwiches and Cuban coffee!,5
